@@ -117,6 +117,10 @@ def scrape_page(page: int) -> tuple[list, bool]:
         views_str = read_div.get_text(strip=True) if read_div else "0"
         views_num = int(views_str.replace(",", "")) if re.fullmatch(r"[\d,]+", views_str) else 0
 
+        # 웹/모바일/IT 분야가 포함된 공모전만 수집
+        if "웹/모바일/IT" not in categories:
+            continue
+
         contests.append({
             "title": title,
             "link": full_link,
