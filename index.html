@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IT 공모전 모음 | wevity.com</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --accent: #6366f1;
+      --accent-hover: #4f46e5;
+    }
+    body { background: #0f172a; color: #e2e8f0; }
+
+    /* 상태 뱃지 */
+    .badge-ing    { background:#059669; color:#fff; }
+    .badge-soon   { background:#d97706; color:#fff; }
+    .badge-future { background:#3b82f6; color:#fff; }
+    .badge-end    { background:#475569; color:#ccc; }
+
+    /* 특수 뱃지 (SPECIAL/IDEA) */
+    .stat-spec  { background:#7c3aed; color:#fff; }
+    .stat-idea  { background:#0891b2; color:#fff; }
+    .stat-new   { background:#16a34a; color:#fff; }
+
+    /* 카드 호버 */
+    .contest-card {
+      transition: transform .15s ease, box-shadow .15s ease;
+    }
+    .contest-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 30px rgba(99,102,241,.25);
+    }
+
+    /* 검색창 포커스 링 */
+    #search:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+    /* 필터 버튼 활성 */
+    .filter-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    /* 스크롤바 */
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #1e293b; }
+    ::-webkit-scrollbar-thumb { background: #475569; border-radius: 3px; }
+
+    /* 카테고리 태그 */
+    .cat-tag {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: #94a3b8;
+      font-size: 0.7rem;
+      padding: 1px 6px;
+      border-radius: 999px;
+    }
+
+    /* 페이지네이션 */
+    .page-btn.active { background: var(--accent); color: #fff; }
+    .page-btn:not(.active):hover { background: #1e293b; }
+  </style>
+</head>
+<body class="min-h-screen">
+
+  <!-- 헤더 -->
+  <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
+      <div class="flex items-center gap-3">
+        <div class="w-8 h-8 rounded-lg bg-indigo-600 flex items-center justify-center text-white font-bold text-sm">IT</div>
+        <div>
+          <h1 class="text-white font-bold text-lg leading-tight">IT 공모전 모음</h1>
+          <p class="text-slate-400 text-xs">위비티(wevity.com) 웹/모바일/IT 분야</p>
+        </div>
+      </div>
+      <div id="last-updated" class="text-slate-500 text-xs"></div>
+    </div>
+  </header>
+
+  <!-- 메인 -->
+  <main class="max-w-6xl mx-auto px-4 py-6">
+
+    <!-- 검색 + 정렬 -->
+    <div class="flex flex-col sm:flex-row gap-3 mb-4">
+      <div class="relative flex-1">
+        <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+        <input id="search" type="text" placeholder="공모전명 또는 주최사 검색..."
+          class="w-full bg-slate-800 border border-slate-700 rounded-lg pl-9 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500"
+        />
+      </div>
+      <select id="sort"
+        class="bg-slate-800 border border-slate-700 rounded-lg px-3 py-2.5 text-sm text-slate-200 cursor-pointer">
+        <option value="dday">마감일 순</option>
+        <option value="views">조회수 순</option>
+        <option value="title">가나다 순</option>
+      </select>
+    </div>
+
+    <!-- 상태 필터 -->
+    <div class="flex flex-wrap gap-2 mb-6">
+      <button class="filter-btn active px-3 py-1.5 rounded-full text-sm border border-slate-700 text-slate-300 cursor-pointer transition-colors" data-filter="all">전체</button>
+      <button class="filter-btn px-3 py-1.5 rounded-full text-sm border border-slate-700 text-slate-300 cursor-pointer transition-colors" data-filter="ing">접수중</button>
+      <button class="filter-btn px-3 py-1.5 rounded-full text-sm border border-slate-700 text-slate-300 cursor-pointer transition-colors" data-filter="soon">마감임박</button>
+      <button class="filter-btn px-3 py-1.5 rounded-full text-sm border border-slate-700 text-slate-300 cursor-pointer transition-colors" data-filter="future">접수예정</button>
+      <button class="filter-btn px-3 py-1.5 rounded-full text-sm border border-slate-700 text-slate-300 cursor-pointer transition-colors" data-filter="end">마감</button>
+    </div>
+
+    <!-- 결과 카운트 -->
+    <div class="flex items-center justify-between mb-4">
+      <p id="result-count" class="text-slate-400 text-sm"></p>
+    </div>
+
+    <!-- 공모전 카드 그리드 -->
+    <div id="contest-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+      <!-- 카드들이 JS로 삽입됩니다 -->
+    </div>
+
+    <!-- 로딩 / 에러 -->
+    <div id="loading" class="text-center py-20">
+      <div class="inline-block w-8 h-8 border-4 border-indigo-600 border-t-transparent rounded-full animate-spin"></div>
+      <p class="text-slate-400 text-sm mt-3">데이터를 불러오는 중...</p>
+    </div>
+    <div id="error" class="hidden text-center py-20">
+      <p class="text-slate-400 text-lg mb-2">데이터를 불러올 수 없습니다.</p>
+      <p class="text-slate-500 text-sm">scraper.py를 실행하여 데이터를 수집해 주세요.</p>
+      <code class="block mt-3 text-indigo-400 text-sm">python scraper.py</code>
+    </div>
+
+    <!-- 페이지네이션 -->
+    <div id="pagination" class="hidden flex justify-center gap-1.5 flex-wrap"></div>
+  </main>
+
+  <!-- 푸터 -->
+  <footer class="border-t border-slate-800 mt-10 py-6 text-center text-slate-500 text-xs">
+    <p>데이터 출처: <a href="https://www.wevity.com" target="_blank" class="text-indigo-400 hover:underline">wevity.com</a> | 매일 자동 업데이트</p>
+  </footer>
+
+  <script>
+    // ─── 상수 ──────────────────────────────────────────────
+    const PAGE_SIZE = 18;
+    const STATUS_LABEL = { ing: '접수중', soon: '마감임박', future: '접수예정', end: '마감' };
+    const STATUS_BADGE = { ing: 'badge-ing', soon: 'badge-soon', future: 'badge-future', end: 'badge-end' };
+    const STAT_BADGE   = { SPECIAL: 'stat-spec', IDEA: 'stat-idea', NEW: 'stat-new', '신규': 'stat-new' };
+
+    // ─── 상태 ──────────────────────────────────────────────
+    let allContests = [];
+    let filtered    = [];
+    let currentPage = 1;
+    let currentFilter = 'all';
+    let currentSort   = 'dday';
+    let searchQuery   = '';
+
+    // ─── 데이터 로드 ──────────────────────────────────────
+    async function loadData() {
+      try {
+        const res = await fetch('data/contests.json');
+        if (!res.ok) throw new Error(res.statusText);
+        const data = await res.json();
+        allContests = data.contests || [];
+
+        const el = document.getElementById('last-updated');
+        if (data.last_updated) {
+          el.textContent = `마지막 업데이트: ${data.last_updated}`;
+        }
+
+        document.getElementById('loading').classList.add('hidden');
+        applyFilters();
+      } catch (e) {
+        document.getElementById('loading').classList.add('hidden');
+        document.getElementById('error').classList.remove('hidden');
+        console.error(e);
+      }
+    }
+
+    // ─── 필터 + 정렬 ──────────────────────────────────────
+    function applyFilters() {
+      const q = searchQuery.toLowerCase();
+
+      filtered = allContests.filter(c => {
+        // 상태 필터
+        if (currentFilter !== 'all' && c.status_class !== currentFilter) return false;
+        // 검색
+        if (q && !c.title.toLowerCase().includes(q) && !c.organization.toLowerCase().includes(q)) return false;
+        return true;
+      });
+
+      // 정렬
+      if (currentSort === 'dday') {
+        const order = { ing: 0, soon: 1, future: 2, end: 3 };
+        filtered.sort((a, b) => {
+          const od = (order[a.status_class] ?? 4) - (order[b.status_class] ?? 4);
+          if (od !== 0) return od;
+          return (a.dday_num ?? 9999) - (b.dday_num ?? 9999);
+        });
+      } else if (currentSort === 'views') {
+        filtered.sort((a, b) => (b.views_num ?? 0) - (a.views_num ?? 0));
+      } else {
+        filtered.sort((a, b) => a.title.localeCompare(b.title, 'ko'));
+      }
+
+      currentPage = 1;
+      renderPage();
+    }
+
+    // ─── 렌더링 ───────────────────────────────────────────
+    function renderPage() {
+      const grid = document.getElementById('contest-grid');
+      const pagi = document.getElementById('pagination');
+      const count = document.getElementById('result-count');
+      const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+      const start = (currentPage - 1) * PAGE_SIZE;
+      const slice = filtered.slice(start, start + PAGE_SIZE);
+
+      count.textContent = `총 ${filtered.length}개의 공모전`;
+
+      grid.innerHTML = slice.map(renderCard).join('');
+
+      // 페이지네이션
+      if (totalPages <= 1) {
+        pagi.classList.add('hidden');
+        pagi.innerHTML = '';
+      } else {
+        pagi.classList.remove('hidden');
+        pagi.innerHTML = buildPagination(currentPage, totalPages);
+        pagi.querySelectorAll('.page-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            currentPage = parseInt(btn.dataset.page);
+            renderPage();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          });
+        });
+      }
+    }
+
+    function renderCard(c) {
+      const statusClass = STATUS_BADGE[c.status_class] || 'badge-end';
+      const statusLabel = STATUS_LABEL[c.status_class] || c.status || '';
+      const statBadgeClass = STAT_BADGE[c.badge] || 'stat-spec';
+      const cats = (c.categories || []).slice(0, 4);
+
+      return `
+      <a href="${c.link}" target="_blank" rel="noopener noreferrer"
+         class="contest-card block bg-slate-800 border border-slate-700 rounded-xl p-4 hover:border-indigo-500/60 no-underline">
+        <div class="flex items-start justify-between gap-2 mb-2">
+          <div class="flex flex-wrap gap-1.5">
+            ${c.badge ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full ${statBadgeClass}">${c.badge}</span>` : ''}
+            ${statusLabel ? `<span class="text-xs font-semibold px-2 py-0.5 rounded-full ${statusClass}">${statusLabel}</span>` : ''}
+          </div>
+          <span class="text-xs font-mono text-slate-400 shrink-0">${c.dday || ''}</span>
+        </div>
+
+        <h3 class="text-slate-100 font-semibold text-sm leading-snug mb-2 line-clamp-2">${escHtml(c.title)}</h3>
+
+        <p class="text-slate-400 text-xs mb-3 truncate">${escHtml(c.organization)}</p>
+
+        <div class="flex flex-wrap gap-1">
+          ${cats.map(cat => `<span class="cat-tag">${escHtml(cat)}</span>`).join('')}
+        </div>
+
+        <div class="flex items-center justify-between mt-3 pt-3 border-t border-slate-700/60">
+          <span class="text-slate-500 text-xs">조회 ${c.views || 0}</span>
+          <span class="text-indigo-400 text-xs font-medium">자세히 보기 →</span>
+        </div>
+      </a>`;
+    }
+
+    function buildPagination(current, total) {
+      let html = '';
+      const btnCls = 'page-btn w-9 h-9 rounded-lg text-sm font-medium text-slate-300 border border-slate-700 cursor-pointer transition-colors flex items-center justify-center';
+
+      // 이전
+      if (current > 1) {
+        html += `<button class="${btnCls}" data-page="${current - 1}">‹</button>`;
+      }
+
+      // 페이지 번호
+      let start = Math.max(1, current - 2);
+      let end   = Math.min(total, current + 2);
+      if (start > 1)     html += `<button class="${btnCls}" data-page="1">1</button>${start > 2 ? '<span class="text-slate-600 self-center">…</span>' : ''}`;
+      for (let i = start; i <= end; i++) {
+        html += `<button class="${btnCls}${i === current ? ' active' : ''}" data-page="${i}">${i}</button>`;
+      }
+      if (end < total) html += `${end < total - 1 ? '<span class="text-slate-600 self-center">…</span>' : ''}<button class="${btnCls}" data-page="${total}">${total}</button>`;
+
+      // 다음
+      if (current < total) {
+        html += `<button class="${btnCls}" data-page="${current + 1}">›</button>`;
+      }
+      return html;
+    }
+
+    function escHtml(str) {
+      return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    // ─── 이벤트 ───────────────────────────────────────────
+    document.getElementById('search').addEventListener('input', e => {
+      searchQuery = e.target.value;
+      applyFilters();
+    });
+
+    document.getElementById('sort').addEventListener('change', e => {
+      currentSort = e.target.value;
+      applyFilters();
+    });
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        applyFilters();
+      });
+    });
+
+    // ─── 초기화 ───────────────────────────────────────────
+    loadData();
+  </script>
+</body>
+</html>
