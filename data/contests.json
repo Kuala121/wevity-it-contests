@@ -1,0 +1,137 @@
+{
+  "last_updated": "2026-03-20 19:32",
+  "total": 8,
+  "contests": [
+    {
+      "title": "​[하나금융그룹] 하나 청년 금융인재 양성 프로젝트 참가자 모집",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105706",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "웹/모바일/IT",
+        "게임/소프트웨어",
+        "과학/공학",
+        "대외활동/서포터즈",
+        "취업/창업"
+      ],
+      "organization": "하나금융그룹",
+      "dday": "D-17",
+      "dday_num": 17,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "16,383",
+      "views_num": 16383
+    },
+    {
+      "title": "LG전자 앰버서더 4기 모집IDEA",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105622",
+      "badge": "SPECIAL",
+      "categories": [
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "디자인/캐릭터/웹툰",
+        "웹/모바일/IT",
+        "예체능/미술/음악",
+        "대외활동/서포터즈"
+      ],
+      "organization": "LG전자",
+      "dday": "D-4",
+      "dday_num": 4,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "23,202",
+      "views_num": 23202
+    },
+    {
+      "title": "2026 핵테온 세종 국제 대학생 사이버보안 경진대회&AI·사이버보안 콘퍼런스",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105938",
+      "badge": "신규",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "세종특별자치시, 국가정보원",
+      "dday": "D-33",
+      "dday_num": 33,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "21",
+      "views_num": 21
+    },
+    {
+      "title": "2026 전국민 인공지능(AI) 창작 경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=4&ix=105859",
+      "badge": "",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "국립광주과학관",
+      "dday": "D-102",
+      "dday_num": 102,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "315",
+      "views_num": 315
+    },
+    {
+      "title": "한국데이터정보과학회 & SAS KOREA 제2회 데이터 분석 경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=11&ix=105751",
+      "badge": "",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "한국데이터정보과학회",
+      "dday": "D-7",
+      "dday_num": 7,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "361",
+      "views_num": 361
+    },
+    {
+      "title": "2026 성남시 공공데이터 활용 시각화 경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=13&ix=105710",
+      "badge": "",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "성남시",
+      "dday": "D-54",
+      "dday_num": 54,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "471",
+      "views_num": 471
+    },
+    {
+      "title": "2026년 서울시 빅데이터 활용 경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=14&ix=105671",
+      "badge": "",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "서울특별시",
+      "dday": "D-54",
+      "dday_num": 54,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "303",
+      "views_num": 303
+    },
+    {
+      "title": "제8회 교육 공공데이터 AI활용대회",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=18&ix=105614",
+      "badge": "",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "교육부, 17개 시도교육청",
+      "dday": "D-26",
+      "dday_num": 26,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "540",
+      "views_num": 540
+    }
+  ]
+}
