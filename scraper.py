@@ -187,6 +187,6 @@ def save(contests: list, path: str = "data/contests.json") -> None:
 
 if __name__ == "__main__":
     print("위비티 IT 공모전 스크래핑 시작...")
-    contests = scrape_all(max_pages=10)
+    contests = scrape_all(max_pages=30)
     save(contests)
     print("완료!")
