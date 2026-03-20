@@ -154,7 +154,7 @@ def scrape_all(max_pages: int = 10) -> list:
         contests, has_next = scrape_page(page)
         all_contests.extend(contests)
         print(f"  → {len(contests)}개 수집 (누적 {len(all_contests)}개)")
-        if not contests or not has_next:
+        if not has_next:
             break
         time.sleep(1.2)   # 서버 부하 방지
     return all_contests
