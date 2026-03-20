@@ -135,28 +135,41 @@ def scrape_page(page: int) -> tuple[list, bool]:
             "views_num": views_num,
         })
 
-    # 다음 페이지 존재 여부
+    raw_count = len(soup.select("div.ms-list ul.list li:not(.top)"))
+
+    # 다음 페이지 존재 여부 (gp=N+1 이상의 링크가 있으면 True)
     has_next = False
     navi = soup.select_one("div.list-navi")
     if navi:
-        for a in navi.select("a"):
-            if f"gp={page + 1}" in (a.get("href") or ""):
+        for a in navi.select("a[href]"):
+            m = re.search(r"gp=(\d+)", a.get("href", ""))
+            if m and int(m.group(1)) > page:
                 has_next = True
                 break
 
-    return contests, has_next
+    return contests, raw_count, has_next
 
 
 def scrape_all(max_pages: int = 10) -> list:
     all_contests = []
+    seen_titles = set()
+
     for page in range(1, max_pages + 1):
         print(f"  페이지 {page} 스크래핑 중...")
-        contests, has_next = scrape_page(page)
-        all_contests.extend(contests)
-        print(f"  → {len(contests)}개 수집 (누적 {len(all_contests)}개)")
-        if not has_next:
+        contests, raw_count, has_next = scrape_page(page)
+
+        # 중복 제거
+        new = [c for c in contests if c["title"] not in seen_titles]
+        seen_titles.update(c["title"] for c in new)
+        all_contests.extend(new)
+
+        print(f"  → 전체 {raw_count}개 중 IT {len(contests)}개 수집 (누적 {len(all_contests)}개)")
+
+        # 빈 페이지이거나 마지막 페이지면 종료
+        if raw_count == 0 or not has_next:
             break
         time.sleep(1.2)   # 서버 부하 방지
+
     return all_contests
 
 
