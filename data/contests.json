@@ -1,5 +1,82 @@
 {
-  "last_updated": "2026-04-15 08:53",
-  "total": 0,
-  "contests": []
+  "last_updated": "2026-04-15 09:00",
+  "total": 4,
+  "contests": [
+    {
+      "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106256",
+      "badge": "SPECIAL",
+      "categories": [
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "웹/모바일/IT",
+        "예체능/미술/음악",
+        "대외활동/서포터즈",
+        "기타"
+      ],
+      "organization": "곰앤컴퍼니",
+      "dday": "D-15",
+      "dday_num": 15,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "55,665",
+      "views_num": 55665
+    },
+    {
+      "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106194",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "웹/모바일/IT",
+        "게임/소프트웨어",
+        "과학/공학",
+        "기타"
+      ],
+      "organization": "과학기술정보통신부",
+      "dday": "D-32",
+      "dday_num": 32,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "69,418",
+      "views_num": 69418
+    },
+    {
+      "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106166",
+      "badge": "SPECIAL",
+      "categories": [
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "웹/모바일/IT",
+        "예체능/미술/음악",
+        "대외활동/서포터즈"
+      ],
+      "organization": "대한민국시도지사협의회",
+      "dday": "D-28",
+      "dday_num": 28,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "72,356",
+      "views_num": 72356
+    },
+    {
+      "title": "모아진 홍보 영상 크리에이티브 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106068",
+      "badge": "SPECIAL",
+      "categories": [
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "웹/모바일/IT",
+        "대외활동/서포터즈"
+      ],
+      "organization": "(주)플랜티엠",
+      "dday": "D-18",
+      "dday_num": 18,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "84,924",
+      "views_num": 84924
+    }
+  ]
 }
