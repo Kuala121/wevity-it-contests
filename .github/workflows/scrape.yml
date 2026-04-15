@@ -1,34 +1,49 @@
 name: Scrape & Deploy
-
 on:
   schedule:
     # 매일 자정 KST (= UTC 15:00) 자동 실행
     - cron: "0 15 * * *"
   workflow_dispatch:   # 수동 실행 버튼
-
 permissions:
   contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
-
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Debug HTML structure
+        run: |
+          python - <<'EOF'
+          import requests
+          from bs4 import BeautifulSoup
 
+          HEADERS = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8",
+              "Referer": "https://www.wevity.com/",
+          }
+
+          resp = requests.get("https://www.wevity.com/?c=find&s=1&cidx=6&gp=1", headers=HEADERS, timeout=20)
+          print(f"상태코드: {resp.status_code}")
+          soup = BeautifulSoup(resp.text, "lxml")
+          items = soup.select("div.ms-list ul.list li:not(.top)")
+          print(f"항목 수: {len(items)}")
+          if items:
+              print(items[0].prettify()[:1000])
+          else:
+              print(soup.prettify()[:3000])
+          EOF
       - name: Run scraper
         run: python scraper.py
-
       - name: Commit & push updated data
         run: |
           git config user.name  "github-actions[bot]"
