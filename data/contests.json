@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 09:00",
+  "last_updated": "2026-04-15 13:04",
   "total": 4,
   "contests": [
     {
@@ -19,8 +19,8 @@
       "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "55,665",
-      "views_num": 55665
+      "views": "57,903",
+      "views_num": 57903
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -38,8 +38,8 @@
       "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "69,418",
-      "views_num": 69418
+      "views": "71,697",
+      "views_num": 71697
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전",
@@ -57,8 +57,8 @@
       "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "72,356",
-      "views_num": 72356
+      "views": "74,661",
+      "views_num": 74661
     },
     {
       "title": "모아진 홍보 영상 크리에이티브 공모전",
@@ -75,8 +75,8 @@
       "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "84,924",
-      "views_num": 84924
+      "views": "87,160",
+      "views_num": 87160
     }
   ]
 }
