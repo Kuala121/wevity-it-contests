@@ -1,6 +1,6 @@
 """
-위비티(wevity.com) IT 공모전 스크래퍼
-Playwright를 사용하여 Cloudflare 우회 후 웹/모바일/IT 카테고리(cidx=6) 수집
+위비티(wevity.com) 공모전 스크래퍼
+Playwright를 사용하여 Cloudflare 우회 후 전체 공모전 수집
 """
 
 from playwright.sync_api import sync_playwright
@@ -12,7 +12,8 @@ import time
 from datetime import datetime
 
 BASE_URL = "https://www.wevity.com"
-IT_URL   = "https://www.wevity.com/?c=find&s=1&cidx=6"
+# cidx 없이 전체 목록 수집
+LIST_URL = "https://www.wevity.com/?c=find&s=1"
 
 STATUS_MAP = {
     "ing":    "접수중",
@@ -142,7 +143,7 @@ def scrape_all(max_pages: int = 70) -> list:
         pw_page = context.new_page()
 
         for page_num in range(1, max_pages + 1):
-            url = f"{IT_URL}&gp={page_num}"
+            url = f"{LIST_URL}&gp={page_num}"
             print(f"  페이지 {page_num} 스크래핑 중... ({url})")
 
             html = get_html(pw_page, url)
@@ -181,7 +182,7 @@ def save(contests: list, path: str = "data/contests.json") -> None:
 
 
 if __name__ == "__main__":
-    print("위비티 IT 공모전 스크래핑 시작...")
+    print("위비티 공모전 스크래핑 시작...")
     contests = scrape_all(max_pages=70)
     save(contests)
     print("완료!")
