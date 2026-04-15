@@ -1,9 +1,9 @@
 """
 위비티(wevity.com) IT 공모전 스크래퍼
-웹/모바일/IT 카테고리(cidx=6)의 공모전을 수집하여 data/contests.json에 저장합니다.
+Playwright를 사용하여 Cloudflare 우회 후 웹/모바일/IT 카테고리(cidx=6) 수집
 """
 
-import requests
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 import os
@@ -12,18 +12,7 @@ import time
 from datetime import datetime
 
 BASE_URL = "https://www.wevity.com"
-IT_URL = "https://www.wevity.com/?c=find&s=1&cidx=6"
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8",
-    "Referer": "https://www.wevity.com/",
-}
+IT_URL   = "https://www.wevity.com/?c=find&s=1&cidx=6"
 
 STATUS_MAP = {
     "ing":    "접수중",
@@ -32,25 +21,22 @@ STATUS_MAP = {
     "end":    "마감",
 }
 
-DDAY_SORT = {
-    "ing":    0,
-    "soon":   1,
-    "future": 2,
-    "end":    3,
-}
+
+def get_html(page, url: str, retries: int = 3) -> str | None:
+    for attempt in range(retries):
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            # Cloudflare 챌린지 대기 (최대 15초)
+            page.wait_for_selector("div.ms-list", timeout=15000)
+            return page.content()
+        except Exception as e:
+            print(f"  [!] 시도 {attempt+1} 실패: {e}")
+            time.sleep(2)
+    return None
 
 
-def scrape_page(page: int) -> tuple[list, int, bool]:
-    url = f"{IT_URL}&gp={page}"
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        resp.encoding = "utf-8"
-    except requests.RequestException as e:
-        print(f"  [!] 페이지 {page} 요청 실패: {e}")
-        return [], 0, False  # ← 3개 반환으로 수정
-
-    soup = BeautifulSoup(resp.text, "lxml")
+def parse_page(html: str, page_num: int) -> tuple[list, int, bool]:
+    soup = BeautifulSoup(html, "lxml")
     contests = []
 
     items = soup.select("div.ms-list ul.list li:not(.top)")
@@ -63,20 +49,17 @@ def scrape_page(page: int) -> tuple[list, int, bool]:
         if not link_tag:
             continue
 
-        # 배지(SPECIAL, IDEA, NEW 등)
+        # 배지
         stat_span = link_tag.select_one("span.stat")
         badge = stat_span.get_text(strip=True) if stat_span else ""
-
-        # 제목 (배지 텍스트 제거)
         if stat_span:
             stat_span.extract()
         title = link_tag.get_text(strip=True)
 
-        # 공모전 링크
         href = link_tag.get("href", "")
         full_link = (BASE_URL + href) if href.startswith("?") else href
 
-        # 분야(카테고리)
+        # 카테고리
         sub_tit = tit_div.select_one("div.sub-tit")
         categories = []
         if sub_tit:
@@ -117,58 +100,81 @@ def scrape_page(page: int) -> tuple[list, int, bool]:
         views_str = read_div.get_text(strip=True) if read_div else "0"
         views_num = int(views_str.replace(",", "")) if re.fullmatch(r"[\d,]+", views_str) else 0
 
-        # 웹/모바일/IT 분야가 포함된 공모전만 수집
-        # if "웹/모바일/IT" not in categories:
-        #     continue
+        # 웹/모바일/IT 필터
+        if "웹/모바일/IT" not in categories:
+            continue
 
         contests.append({
-            "title": title,
-            "link": full_link,
-            "badge": badge,
-            "categories": categories,
+            "title":        title,
+            "link":         full_link,
+            "badge":        badge,
+            "categories":   categories,
             "organization": organization,
-            "dday": dday,
-            "dday_num": dday_num,
-            "status": status,
+            "dday":         dday,
+            "dday_num":     dday_num,
+            "status":       status,
             "status_class": status_class,
-            "views": views_str,
-            "views_num": views_num,
+            "views":        views_str,
+            "views_num":    views_num,
         })
 
-    raw_count = len(soup.select("div.ms-list ul.list li:not(.top)"))
+    raw_count = len(items)
 
-    # 다음 페이지 존재 여부 (gp=N+1 이상의 링크가 있으면 True)
+    # 다음 페이지 여부
     has_next = False
     navi = soup.select_one("div.list-navi")
     if navi:
         for a in navi.select("a[href]"):
             m = re.search(r"gp=(\d+)", a.get("href", ""))
-            if m and int(m.group(1)) > page:
+            if m and int(m.group(1)) > page_num:
                 has_next = True
                 break
 
     return contests, raw_count, has_next
 
 
-def scrape_all(max_pages: int = 10) -> list:
+def scrape_all(max_pages: int = 70) -> list:
     all_contests = []
-    seen_titles = set()
+    seen_titles  = set()
 
-    for page in range(1, max_pages + 1):
-        print(f"  페이지 {page} 스크래핑 중...")
-        contests, raw_count, has_next = scrape_page(page)
+    with sync_playwright() as p:
+        browser = p.chromium.launch(
+            headless=True,
+            args=["--no-sandbox", "--disable-setuid-sandbox"],
+        )
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            ),
+            locale="ko-KR",
+        )
+        pw_page = context.new_page()
 
-        # 중복 제거
-        new = [c for c in contests if c["title"] not in seen_titles]
-        seen_titles.update(c["title"] for c in new)
-        all_contests.extend(new)
+        for page_num in range(1, max_pages + 1):
+            url = f"{IT_URL}&gp={page_num}"
+            print(f"  페이지 {page_num} 스크래핑 중... ({url})")
 
-        print(f"  → 전체 {raw_count}개 중 IT {len(contests)}개 수집 (누적 {len(all_contests)}개)")
+            html = get_html(pw_page, url)
+            if html is None:
+                print(f"  [!] 페이지 {page_num} 로드 실패, 중단")
+                break
 
-        # 빈 페이지이거나 마지막 페이지면 종료
-        if raw_count == 0 or not has_next:
-            break
-        time.sleep(1.2)   # 서버 부하 방지
+            contests, raw_count, has_next = parse_page(html, page_num)
+
+            new = [c for c in contests if c["title"] not in seen_titles]
+            seen_titles.update(c["title"] for c in new)
+            all_contests.extend(new)
+
+            print(f"  → 전체 {raw_count}개 중 IT {len(contests)}개 수집 (누적 {len(all_contests)}개)")
+
+            if raw_count == 0 or not has_next:
+                break
+
+            time.sleep(1.5)
+
+        browser.close()
 
     return all_contests
 
@@ -177,8 +183,8 @@ def save(contests: list, path: str = "data/contests.json") -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     data = {
         "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "total": len(contests),
-        "contests": contests,
+        "total":        len(contests),
+        "contests":     contests,
     }
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
