@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-04-15 13:04",
-  "total": 4,
+  "last_updated": "2026-04-15 15:44",
+  "total": 15,
   "contests": [
+    {
+      "title": "2026년 5월 삼성생명 금융캠퍼스 한달 인턴과정 참가자 모집",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106474",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "대외활동/서포터즈",
+        "취업/창업",
+        "기타"
+      ],
+      "organization": "삼성생명",
+      "dday": "D-15",
+      "dday_num": 15,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "26,437",
+      "views_num": 26437
+    },
+    {
+      "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106461",
+      "badge": "SPECIAL",
+      "categories": [
+        "광고/마케팅",
+        "논문/리포트",
+        "문학/글/시나리오",
+        "예체능/미술/음악",
+        "대외활동/서포터즈",
+        "기타"
+      ],
+      "organization": "작필(作筆)",
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "30,503",
+      "views_num": 30503
+    },
     {
       "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자",
       "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=106256",
@@ -19,8 +58,8 @@
       "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "57,903",
-      "views_num": 57903
+      "views": "58,610",
+      "views_num": 58610
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -38,8 +77,8 @@
       "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "71,697",
-      "views_num": 71697
+      "views": "72,465",
+      "views_num": 72465
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전",
@@ -57,8 +96,8 @@
       "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "74,661",
-      "views_num": 74661
+      "views": "75,361",
+      "views_num": 75361
     },
     {
       "title": "모아진 홍보 영상 크리에이티브 공모전",
@@ -75,8 +114,172 @@
       "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "87,160",
-      "views_num": 87160
+      "views": "87,840",
+      "views_num": 87840
+    },
+    {
+      "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105948",
+      "badge": "SPECIAL",
+      "categories": [
+        "논문/리포트",
+        "디자인/캐릭터/웹툰",
+        "과학/공학",
+        "건축/건설/인테리어",
+        "예체능/미술/음악"
+      ],
+      "organization": "경기건축문화제 추진위원회",
+      "dday": "D-75",
+      "dday_num": 75,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "105,967",
+      "views_num": 105967
+    },
+    {
+      "title": "2026 생활 속 목재이용 국민참여 공모전 (목재 공감(共感) 키트)IDEA",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105705",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "디자인/캐릭터/웹툰",
+        "게임/소프트웨어",
+        "건축/건설/인테리어",
+        "예체능/미술/음악"
+      ],
+      "organization": "목재문화진흥회",
+      "dday": "D-2",
+      "dday_num": 2,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "125,579",
+      "views_num": 125579
+    },
+    {
+      "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105566",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "논문/리포트",
+        "과학/공학",
+        "대외활동/서포터즈",
+        "기타"
+      ],
+      "organization": "한국산업안전보건공단 산업안전보건연구원",
+      "dday": "D-46",
+      "dday_num": 46,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "133,732",
+      "views_num": 133732
+    },
+    {
+      "title": "제8회 밀크T 창작동화 공모전IDEA",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105519",
+      "badge": "SPECIAL",
+      "categories": [
+        "논문/리포트",
+        "문학/글/시나리오",
+        "예체능/미술/음악",
+        "기타"
+      ],
+      "organization": "㈜천재교육, ㈜천재교과서",
+      "dday": "D-25",
+      "dday_num": 25,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "141,570",
+      "views_num": 141570
+    },
+    {
+      "title": "제10회 소비자지향성 개선과제 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105362",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "논문/리포트",
+        "예체능/미술/음악",
+        "기타"
+      ],
+      "organization": "공정거래위원회",
+      "dday": "D-61",
+      "dday_num": 61,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "144,416",
+      "views_num": 144416
+    },
+    {
+      "title": "[산업통상부] 2026 엔지니어링산업 경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105361",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "논문/리포트",
+        "과학/공학",
+        "건축/건설/인테리어"
+      ],
+      "organization": "산업통상부",
+      "dday": "D-15",
+      "dday_num": 15,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "149,006",
+      "views_num": 149006
+    },
+    {
+      "title": "제2회 꿈을 짓다! 건축 아이디어 공모전IDEA",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105145",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "디자인/캐릭터/웹툰",
+        "건축/건설/인테리어",
+        "예체능/미술/음악",
+        "대외활동/서포터즈"
+      ],
+      "organization": "시티문화재단",
+      "dday": "",
+      "dday_num": 9999,
+      "status": "마감",
+      "status_class": "end",
+      "views": "156,820",
+      "views_num": 156820
+    },
+    {
+      "title": "2026년 제15회 녹색문학상 작품 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=105097",
+      "badge": "SPECIAL",
+      "categories": [
+        "문학/글/시나리오"
+      ],
+      "organization": "산림청",
+      "dday": "D-45",
+      "dday_num": 45,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "40,619",
+      "views_num": 40619
+    },
+    {
+      "title": "2026 창비 청소년 문학상 공모",
+      "link": "https://www.wevity.com?c=find&s=1&cidx=6&gbn=view&gp=1&ix=103901",
+      "badge": "SPECIAL",
+      "categories": [
+        "문학/글/시나리오"
+      ],
+      "organization": "창비",
+      "dday": "D-15",
+      "dday_num": 15,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "44,444",
+      "views_num": 44444
     }
   ]
 }
