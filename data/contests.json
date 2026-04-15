@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 15:48",
+  "last_updated": "2026-04-15 15:59",
   "total": 15,
   "contests": [
     {
@@ -18,8 +18,8 @@
       "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "26,450",
-      "views_num": 26450
+      "views": "26,478",
+      "views_num": 26478
     },
     {
       "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
@@ -38,8 +38,8 @@
       "dday_num": 8,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "30,516",
-      "views_num": 30516
+      "views": "30,551",
+      "views_num": 30551
     },
     {
       "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자",
@@ -58,8 +58,8 @@
       "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "58,612",
-      "views_num": 58612
+      "views": "58,644",
+      "views_num": 58644
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -77,8 +77,8 @@
       "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "72,475",
-      "views_num": 72475
+      "views": "72,497",
+      "views_num": 72497
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전",
@@ -96,8 +96,8 @@
       "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "75,367",
-      "views_num": 75367
+      "views": "75,405",
+      "views_num": 75405
     },
     {
       "title": "모아진 홍보 영상 크리에이티브 공모전",
@@ -114,8 +114,8 @@
       "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "87,848",
-      "views_num": 87848
+      "views": "87,875",
+      "views_num": 87875
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -133,8 +133,8 @@
       "dday_num": 75,
       "status": "접수예정",
       "status_class": "future",
-      "views": "105,971",
-      "views_num": 105971
+      "views": "105,996",
+      "views_num": 105996
     },
     {
       "title": "2026 생활 속 목재이용 국민참여 공모전 (목재 공감(共感) 키트)IDEA",
@@ -152,8 +152,8 @@
       "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "125,586",
-      "views_num": 125586
+      "views": "125,619",
+      "views_num": 125619
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -172,8 +172,8 @@
       "dday_num": 46,
       "status": "접수중",
       "status_class": "ing",
-      "views": "133,743",
-      "views_num": 133743
+      "views": "133,772",
+      "views_num": 133772
     },
     {
       "title": "제8회 밀크T 창작동화 공모전IDEA",
@@ -190,8 +190,8 @@
       "dday_num": 25,
       "status": "접수예정",
       "status_class": "future",
-      "views": "141,582",
-      "views_num": 141582
+      "views": "141,609",
+      "views_num": 141609
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전",
@@ -209,8 +209,8 @@
       "dday_num": 61,
       "status": "접수중",
       "status_class": "ing",
-      "views": "144,423",
-      "views_num": 144423
+      "views": "144,446",
+      "views_num": 144446
     },
     {
       "title": "[산업통상부] 2026 엔지니어링산업 경진대회",
@@ -228,8 +228,8 @@
       "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "149,011",
-      "views_num": 149011
+      "views": "149,036",
+      "views_num": 149036
     },
     {
       "title": "제2회 꿈을 짓다! 건축 아이디어 공모전IDEA",
@@ -248,8 +248,8 @@
       "dday_num": 9999,
       "status": "마감",
       "status_class": "end",
-      "views": "156,823",
-      "views_num": 156823
+      "views": "156,847",
+      "views_num": 156847
     },
     {
       "title": "2026년 제15회 녹색문학상 작품 공모전",
@@ -263,8 +263,8 @@
       "dday_num": 45,
       "status": "접수중",
       "status_class": "ing",
-      "views": "40,629",
-      "views_num": 40629
+      "views": "40,647",
+      "views_num": 40647
     },
     {
       "title": "2026 창비 청소년 문학상 공모",
@@ -278,8 +278,8 @@
       "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "44,449",
-      "views_num": 44449
+      "views": "44,489",
+      "views_num": 44489
     }
   ]
 }
