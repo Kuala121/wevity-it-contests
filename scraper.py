@@ -26,7 +26,6 @@ def get_html(page, url: str, retries: int = 3) -> str | None:
     for attempt in range(retries):
         try:
             page.goto(url, wait_until="domcontentloaded", timeout=30000)
-            # Cloudflare 챌린지 대기 (최대 15초)
             page.wait_for_selector("div.ms-list", timeout=15000)
             return page.content()
         except Exception as e:
@@ -49,7 +48,6 @@ def parse_page(html: str, page_num: int) -> tuple[list, int, bool]:
         if not link_tag:
             continue
 
-        # 배지
         stat_span = link_tag.select_one("span.stat")
         badge = stat_span.get_text(strip=True) if stat_span else ""
         if stat_span:
@@ -59,7 +57,6 @@ def parse_page(html: str, page_num: int) -> tuple[list, int, bool]:
         href = link_tag.get("href", "")
         full_link = (BASE_URL + href) if href.startswith("?") else href
 
-        # 카테고리
         sub_tit = tit_div.select_one("div.sub-tit")
         categories = []
         if sub_tit:
@@ -68,11 +65,9 @@ def parse_page(html: str, page_num: int) -> tuple[list, int, bool]:
                 raw = cat_text.split("분야 :")[-1].strip()
                 categories = [c.strip() for c in raw.split(",") if c.strip()]
 
-        # 주최사
         organ_div = item.select_one("div.organ")
         organization = organ_div.get_text(strip=True) if organ_div else ""
 
-        # D-Day & 상태
         day_div = item.select_one("div.day")
         dday = ""
         dday_num = 9999
@@ -95,14 +90,9 @@ def parse_page(html: str, page_num: int) -> tuple[list, int, bool]:
                 status_class = next((c for c in classes if c != "dday"), "")
                 status = STATUS_MAP.get(status_class, dday_span.get_text(strip=True))
 
-        # 조회수
         read_div = item.select_one("div.read")
         views_str = read_div.get_text(strip=True) if read_div else "0"
         views_num = int(views_str.replace(",", "")) if re.fullmatch(r"[\d,]+", views_str) else 0
-
-        # 웹/모바일/IT 필터
-        if "웹/모바일/IT" not in categories:
-            continue
 
         contests.append({
             "title":        title,
@@ -120,7 +110,6 @@ def parse_page(html: str, page_num: int) -> tuple[list, int, bool]:
 
     raw_count = len(items)
 
-    # 다음 페이지 여부
     has_next = False
     navi = soup.select_one("div.list-navi")
     if navi:
@@ -167,7 +156,7 @@ def scrape_all(max_pages: int = 70) -> list:
             seen_titles.update(c["title"] for c in new)
             all_contests.extend(new)
 
-            print(f"  → 전체 {raw_count}개 중 IT {len(contests)}개 수집 (누적 {len(all_contests)}개)")
+            print(f"  → 전체 {raw_count}개 중 {len(contests)}개 수집 (누적 {len(all_contests)}개)")
 
             if raw_count == 0 or not has_next:
                 break
