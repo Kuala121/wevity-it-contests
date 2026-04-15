@@ -40,7 +40,7 @@ DDAY_SORT = {
 }
 
 
-def scrape_page(page: int) -> tuple[list, bool]:
+def scrape_page(page: int) -> tuple[list, int, bool]:
     url = f"{IT_URL}&gp={page}"
     try:
         resp = requests.get(url, headers=HEADERS, timeout=20)
@@ -48,7 +48,7 @@ def scrape_page(page: int) -> tuple[list, bool]:
         resp.encoding = "utf-8"
     except requests.RequestException as e:
         print(f"  [!] 페이지 {page} 요청 실패: {e}")
-        return [], False
+        return [], 0, False  # ← 3개 반환으로 수정
 
     soup = BeautifulSoup(resp.text, "lxml")
     contests = []
