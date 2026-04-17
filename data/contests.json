@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-16 16:17",
+  "last_updated": "2026-04-17 15:50",
   "total": 15,
   "contests": [
     {
-      "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전SPECIAL",
+      "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106656",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "기획/아이디어",
         "영상/UCC/사진",
@@ -16,12 +16,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-89",
-      "dday_num": 89,
+      "dday": "D-88",
+      "dday_num": 88,
       "status": "접수예정",
       "status_class": "future",
-      "views": "582",
-      "views_num": 582
+      "views": "6,463",
+      "views_num": 6463
     },
     {
       "title": "2026년 5월 삼성생명 금융캠퍼스 한달 인턴과정 참가자 모집",
@@ -35,12 +35,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "34,602",
-      "views_num": 34602
+      "views": "41,239",
+      "views_num": 41239
     },
     {
       "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
@@ -55,12 +55,12 @@
         "기타"
       ],
       "organization": "작필(作筆)",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "38,764",
-      "views_num": 38764
+      "views": "45,239",
+      "views_num": 45239
     },
     {
       "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자",
@@ -75,12 +75,12 @@
         "기타"
       ],
       "organization": "곰앤컴퍼니",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "66,527",
-      "views_num": 66527
+      "views": "72,767",
+      "views_num": 72767
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -94,12 +94,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수중",
       "status_class": "ing",
-      "views": "80,400",
-      "views_num": 80400
+      "views": "86,626",
+      "views_num": 86626
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전",
@@ -113,12 +113,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "대한민국시도지사협의회",
-      "dday": "D-27",
-      "dday_num": 27,
+      "dday": "D-26",
+      "dday_num": 26,
       "status": "접수중",
       "status_class": "ing",
-      "views": "83,198",
-      "views_num": 83198
+      "views": "89,531",
+      "views_num": 89531
     },
     {
       "title": "모아진 홍보 영상 크리에이티브 공모전",
@@ -131,12 +131,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "(주)플랜티엠",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "95,525",
-      "views_num": 95525
+      "views": "101,724",
+      "views_num": 101724
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -150,12 +150,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-74",
-      "dday_num": 74,
+      "dday": "D-73",
+      "dday_num": 73,
       "status": "접수예정",
       "status_class": "future",
-      "views": "113,697",
-      "views_num": 113697
+      "views": "119,923",
+      "views_num": 119923
     },
     {
       "title": "2026 생활 속 목재이용 국민참여 공모전 (목재 공감(共感) 키트)IDEA",
@@ -169,12 +169,12 @@
         "예체능/미술/음악"
       ],
       "organization": "목재문화진흥회",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "133,224",
-      "views_num": 133224
+      "dday": "",
+      "dday_num": 9999,
+      "status": "마감",
+      "status_class": "end",
+      "views": "139,388",
+      "views_num": 139388
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -189,12 +189,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-45",
-      "dday_num": 45,
+      "dday": "D-44",
+      "dday_num": 44,
       "status": "접수중",
       "status_class": "ing",
-      "views": "141,524",
-      "views_num": 141524
+      "views": "147,871",
+      "views_num": 147871
     },
     {
       "title": "제8회 밀크T 창작동화 공모전IDEA",
@@ -207,12 +207,12 @@
         "기타"
       ],
       "organization": "㈜천재교육, ㈜천재교과서",
-      "dday": "D-24",
-      "dday_num": 24,
+      "dday": "D-23",
+      "dday_num": 23,
       "status": "접수예정",
       "status_class": "future",
-      "views": "149,307",
-      "views_num": 149307
+      "views": "155,633",
+      "views_num": 155633
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전",
@@ -226,12 +226,12 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-60",
-      "dday_num": 60,
+      "dday": "D-59",
+      "dday_num": 59,
       "status": "접수중",
       "status_class": "ing",
-      "views": "152,032",
-      "views_num": 152032
+      "views": "158,201",
+      "views_num": 158201
     },
     {
       "title": "[산업통상부] 2026 엔지니어링산업 경진대회",
@@ -245,12 +245,12 @@
         "건축/건설/인테리어"
       ],
       "organization": "산업통상부",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "156,567",
-      "views_num": 156567
+      "views": "162,807",
+      "views_num": 162807
     },
     {
       "title": "2026년 제15회 녹색문학상 작품 공모전",
@@ -260,12 +260,12 @@
         "문학/글/시나리오"
       ],
       "organization": "산림청",
-      "dday": "D-44",
-      "dday_num": 44,
+      "dday": "D-43",
+      "dday_num": 43,
       "status": "접수중",
       "status_class": "ing",
-      "views": "48,336",
-      "views_num": 48336
+      "views": "54,705",
+      "views_num": 54705
     },
     {
       "title": "2026 창비 청소년 문학상 공모",
@@ -275,12 +275,12 @@
         "문학/글/시나리오"
       ],
       "organization": "창비",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "52,199",
-      "views_num": 52199
+      "views": "58,584",
+      "views_num": 58584
     }
   ]
 }
