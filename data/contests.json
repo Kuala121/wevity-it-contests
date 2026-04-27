@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-26 15:34",
-  "total": 16,
+  "last_updated": "2026-04-27 16:20",
+  "total": 17,
   "contests": [
     {
-      "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집SPECIAL",
+      "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106851",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "기획/아이디어",
         "광고/마케팅",
@@ -14,17 +14,17 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-29",
-      "dday_num": 29,
+      "dday": "D-28",
+      "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "61",
-      "views_num": 61
+      "views": "1,415",
+      "views_num": 1415
     },
     {
-      "title": "2026 대학생 논문경진대회 장애의 재해석 공모전SPECIAL",
+      "title": "2026 대학생 논문경진대회 장애의 재해석 공모전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106850",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "기획/아이디어",
         "논문/리포트",
@@ -33,12 +33,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-28",
-      "dday_num": 28,
+      "dday": "D-27",
+      "dday_num": 27,
       "status": "접수중",
       "status_class": "ing",
-      "views": "76",
-      "views_num": 76
+      "views": "1,297",
+      "views_num": 1297
     },
     {
       "title": "[Sh수협은행] 대학생 홍보대사 12기 유니블루 모집",
@@ -52,12 +52,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "Sh수협은행",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "7,753",
-      "views_num": 7753
+      "views": "9,741",
+      "views_num": 9741
     },
     {
       "title": "2026년 제5기 보험연구원 온라인 서포터즈 모집",
@@ -71,12 +71,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "보험연구원",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "13,147",
-      "views_num": 13147
+      "views": "15,021",
+      "views_num": 15021
     },
     {
       "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전",
@@ -90,12 +90,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "현대오토에버, 서울사회복지공동모금회",
-      "dday": "D-21",
-      "dday_num": 21,
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "15,813",
-      "views_num": 15813
+      "views": "17,728",
+      "views_num": 17728
     },
     {
       "title": "포항 로컬 MICE 창업 아이디어 공모전",
@@ -109,12 +109,12 @@
         "취업/창업"
       ],
       "organization": "한동대학교",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "20,805",
-      "views_num": 20805
+      "views": "22,592",
+      "views_num": 22592
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -130,12 +130,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-79",
-      "dday_num": 79,
+      "dday": "D-78",
+      "dday_num": 78,
       "status": "접수예정",
       "status_class": "future",
-      "views": "33,535",
-      "views_num": 33535
+      "views": "35,322",
+      "views_num": 35322
     },
     {
       "title": "2026년 5월 삼성생명 금융캠퍼스 한달 인턴과정 참가자 모집",
@@ -149,12 +149,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "68,167",
-      "views_num": 68167
+      "views": "69,939",
+      "views_num": 69939
     },
     {
       "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자",
@@ -169,12 +169,12 @@
         "기타"
       ],
       "organization": "곰앤컴퍼니",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "98,849",
-      "views_num": 98849
+      "views": "100,628",
+      "views_num": 100628
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -188,12 +188,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-21",
-      "dday_num": 21,
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "112,972",
-      "views_num": 112972
+      "views": "114,770",
+      "views_num": 114770
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전IDEA",
@@ -207,12 +207,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "대한민국시도지사협의회",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "116,653",
-      "views_num": 116653
+      "views": "118,667",
+      "views_num": 118667
     },
     {
       "title": "모아진 홍보 영상 크리에이티브 공모전",
@@ -225,12 +225,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "(주)플랜티엠",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "126,586",
-      "views_num": 126586
+      "views": "128,297",
+      "views_num": 128297
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -244,12 +244,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-64",
-      "dday_num": 64,
+      "dday": "D-63",
+      "dday_num": 63,
       "status": "접수중",
       "status_class": "ing",
-      "views": "145,533",
-      "views_num": 145533
+      "views": "147,231",
+      "views_num": 147231
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -264,12 +264,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-35",
-      "dday_num": 35,
+      "dday": "D-34",
+      "dday_num": 34,
       "status": "접수중",
       "status_class": "ing",
-      "views": "172,471",
-      "views_num": 172471
+      "views": "174,178",
+      "views_num": 174178
     },
     {
       "title": "제8회 밀크T 창작동화 공모전IDEA",
@@ -282,12 +282,12 @@
         "기타"
       ],
       "organization": "㈜천재교육, ㈜천재교과서",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수예정",
       "status_class": "future",
-      "views": "181,644",
-      "views_num": 181644
+      "views": "183,522",
+      "views_num": 183522
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전",
@@ -301,12 +301,31 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-50",
-      "dday_num": 50,
+      "dday": "D-49",
+      "dday_num": 49,
       "status": "접수중",
       "status_class": "ing",
-      "views": "183,141",
-      "views_num": 183141
+      "views": "184,822",
+      "views_num": 184822
+    },
+    {
+      "title": "[산업통상부] 2026 엔지니어링산업 경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=105361",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "논문/리포트",
+        "과학/공학",
+        "건축/건설/인테리어"
+      ],
+      "organization": "산업통상부",
+      "dday": "D-3",
+      "dday_num": 3,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "189,721",
+      "views_num": 189721
     }
   ]
 }
