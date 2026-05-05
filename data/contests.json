@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-05-04 16:26",
+  "last_updated": "2026-05-05 16:23",
   "total": 18,
   "contests": [
+    {
+      "title": "한화생명 드림플러스 인베스터 클럽 2기 모집",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107042",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "웹/모바일/IT",
+        "대외활동/서포터즈",
+        "취업/창업"
+      ],
+      "organization": "한화생명 드림플러스",
+      "dday": "D-13",
+      "dday_num": 13,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "56",
+      "views_num": 56
+    },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106999",
@@ -13,12 +32,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-88",
-      "dday_num": 88,
+      "dday": "D-87",
+      "dday_num": 87,
       "status": "접수예정",
       "status_class": "future",
-      "views": "12,550",
-      "views_num": 12550
+      "views": "14,942",
+      "views_num": 14942
     },
     {
       "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 56기 모집",
@@ -32,12 +51,12 @@
         "기타"
       ],
       "organization": "글ego",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "8,034",
-      "views_num": 8034
+      "views": "10,029",
+      "views_num": 10029
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -52,12 +71,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-53",
-      "dday_num": 53,
+      "dday": "D-52",
+      "dday_num": 52,
       "status": "접수중",
       "status_class": "ing",
-      "views": "10,087",
-      "views_num": 10087
+      "views": "12,214",
+      "views_num": 12214
     },
     {
       "title": "제6기 그린리모델링 대학생기자단 모집",
@@ -72,12 +91,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "국토교통부, 국토안전관리원",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "12,747",
-      "views_num": 12747
+      "views": "14,824",
+      "views_num": 14824
     },
     {
       "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
@@ -91,12 +110,12 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-21",
-      "dday_num": 21,
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "16,819",
-      "views_num": 16819
+      "views": "18,979",
+      "views_num": 18979
     },
     {
       "title": "2026 대학생 논문경진대회 장애의 재해석 공모전",
@@ -110,12 +129,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-20",
-      "dday_num": 20,
+      "dday": "D-19",
+      "dday_num": 19,
       "status": "접수중",
       "status_class": "ing",
-      "views": "16,233",
-      "views_num": 16233
+      "views": "18,139",
+      "views_num": 18139
     },
     {
       "title": "2026년 제5기 보험연구원 온라인 서포터즈 모집",
@@ -129,12 +148,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "보험연구원",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "30,951",
-      "views_num": 30951
+      "views": "32,638",
+      "views_num": 32638
     },
     {
       "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전",
@@ -148,12 +167,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "현대오토에버, 서울사회복지공동모금회",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "33,336",
-      "views_num": 33336
+      "views": "35,063",
+      "views_num": 35063
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -169,12 +188,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-71",
-      "dday_num": 71,
+      "dday": "D-70",
+      "dday_num": 70,
       "status": "접수예정",
       "status_class": "future",
-      "views": "50,904",
-      "views_num": 50904
+      "views": "52,686",
+      "views_num": 52686
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -188,12 +207,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "130,078",
-      "views_num": 130078
+      "views": "131,912",
+      "views_num": 131912
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전IDEA",
@@ -207,12 +226,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "대한민국시도지사협의회",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "133,892",
-      "views_num": 133892
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "135,686",
+      "views_num": 135686
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -226,12 +245,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-56",
-      "dday_num": 56,
+      "dday": "D-55",
+      "dday_num": 55,
       "status": "접수중",
       "status_class": "ing",
-      "views": "161,645",
-      "views_num": 161645
+      "views": "163,268",
+      "views_num": 163268
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -246,12 +265,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-27",
-      "dday_num": 27,
+      "dday": "D-26",
+      "dday_num": 26,
       "status": "접수중",
       "status_class": "ing",
-      "views": "188,321",
-      "views_num": 188321
+      "views": "190,003",
+      "views_num": 190003
     },
     {
       "title": "제8회 밀크T 창작동화 공모전IDEA",
@@ -264,12 +283,12 @@
         "기타"
       ],
       "organization": "㈜천재교육, ㈜천재교과서",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "199,054",
-      "views_num": 199054
+      "views": "200,924",
+      "views_num": 200924
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전",
@@ -283,57 +302,42 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-42",
-      "dday_num": 42,
+      "dday": "D-41",
+      "dday_num": 41,
       "status": "접수중",
       "status_class": "ing",
-      "views": "198,912",
-      "views_num": 198912
+      "views": "200,581",
+      "views_num": 200581
+    },
+    {
+      "title": "2026 해양콘텐츠공모전 숏폼&아이디어 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107077",
+      "badge": "신규",
+      "categories": [
+        "예체능/미술/음악"
+      ],
+      "organization": "부산광역시,(사)한국해양산업협회",
+      "dday": "D-45",
+      "dday_num": 45,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "19",
+      "views_num": 19
     },
     {
       "title": "2026 안양시 건축문화상 작품 공모(아름다운 건축물 부문/계획작품 부문)",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107074",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "건축/건설/인테리어"
       ],
       "organization": "안양시,안양지역건축사회",
-      "dday": "D-73",
-      "dday_num": 73,
+      "dday": "D-72",
+      "dday_num": 72,
       "status": "접수예정",
       "status_class": "future",
-      "views": "17",
-      "views_num": 17
-    },
-    {
-      "title": "제44회 문명 그 화려한 역설 69개의 표지비밀 풀기 프로젝트 공모 (1억고료 문학상 수상작)",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107072",
-      "badge": "신규",
-      "categories": [
-        "문학/글/시나리오"
-      ],
-      "organization": "도서출판 글여울",
-      "dday": "D-57",
-      "dday_num": 57,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "25",
-      "views_num": 25
-    },
-    {
-      "title": "모바일 신분증을 활용한 2026 블록체인&AI 해커톤",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107071",
-      "badge": "신규",
-      "categories": [
-        "취업/창업"
-      ],
-      "organization": "(사)한국디지털인증협회",
-      "dday": "D-27",
-      "dday_num": 27,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "16",
-      "views_num": 16
+      "views": "107",
+      "views_num": 107
     }
   ]
 }
