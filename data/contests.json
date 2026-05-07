@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 16:24",
+  "last_updated": "2026-05-07 16:44",
   "total": 18,
   "contests": [
     {
@@ -14,12 +14,12 @@
         "취업/창업"
       ],
       "organization": "한화생명 드림플러스",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "932",
-      "views_num": 932
+      "views": "1,702",
+      "views_num": 1702
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -32,12 +32,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-86",
-      "dday_num": 86,
+      "dday": "D-85",
+      "dday_num": 85,
       "status": "접수예정",
       "status_class": "future",
-      "views": "17,340",
-      "views_num": 17340
+      "views": "19,599",
+      "views_num": 19599
     },
     {
       "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 56기 모집",
@@ -51,12 +51,12 @@
         "기타"
       ],
       "organization": "글ego",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "11,810",
-      "views_num": 11810
+      "views": "13,728",
+      "views_num": 13728
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -71,12 +71,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-51",
-      "dday_num": 51,
+      "dday": "D-50",
+      "dday_num": 50,
       "status": "접수중",
       "status_class": "ing",
-      "views": "14,298",
-      "views_num": 14298
+      "views": "16,264",
+      "views_num": 16264
     },
     {
       "title": "제6기 그린리모델링 대학생기자단 모집",
@@ -91,12 +91,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "국토교통부, 국토안전관리원",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "16,776",
-      "views_num": 16776
+      "views": "18,494",
+      "views_num": 18494
     },
     {
       "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
@@ -110,12 +110,12 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-19",
-      "dday_num": 19,
+      "dday": "D-18",
+      "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "20,770",
-      "views_num": 20770
+      "views": "22,454",
+      "views_num": 22454
     },
     {
       "title": "2026 대학생 논문경진대회 장애의 재해석 공모전",
@@ -129,12 +129,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-18",
-      "dday_num": 18,
+      "dday": "D-17",
+      "dday_num": 17,
       "status": "접수중",
       "status_class": "ing",
-      "views": "19,784",
-      "views_num": 19784
+      "views": "21,282",
+      "views_num": 21282
     },
     {
       "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전",
@@ -148,12 +148,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "현대오토에버, 서울사회복지공동모금회",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "36,597",
-      "views_num": 36597
+      "views": "38,013",
+      "views_num": 38013
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -169,12 +169,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-69",
-      "dday_num": 69,
+      "dday": "D-68",
+      "dday_num": 68,
       "status": "접수예정",
       "status_class": "future",
-      "views": "54,193",
-      "views_num": 54193
+      "views": "55,655",
+      "views_num": 55655
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -188,12 +188,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "133,534",
-      "views_num": 133534
+      "views": "135,122",
+      "views_num": 135122
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전IDEA",
@@ -207,12 +207,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "대한민국시도지사협의회",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "137,323",
-      "views_num": 137323
+      "views": "138,758",
+      "views_num": 138758
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -226,12 +226,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-54",
-      "dday_num": 54,
+      "dday": "D-53",
+      "dday_num": 53,
       "status": "접수중",
       "status_class": "ing",
-      "views": "164,651",
-      "views_num": 164651
+      "views": "166,067",
+      "views_num": 166067
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -246,12 +246,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-25",
-      "dday_num": 25,
+      "dday": "D-24",
+      "dday_num": 24,
       "status": "접수중",
       "status_class": "ing",
-      "views": "191,365",
-      "views_num": 191365
+      "views": "192,680",
+      "views_num": 192680
     },
     {
       "title": "제8회 밀크T 창작동화 공모전IDEA",
@@ -264,12 +264,12 @@
         "기타"
       ],
       "organization": "㈜천재교육, ㈜천재교과서",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "202,480",
-      "views_num": 202480
+      "views": "204,047",
+      "views_num": 204047
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전",
@@ -283,57 +283,57 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-40",
-      "dday_num": 40,
+      "dday": "D-39",
+      "dday_num": 39,
       "status": "접수중",
       "status_class": "ing",
-      "views": "201,947",
-      "views_num": 201947
+      "views": "203,263",
+      "views_num": 203263
     },
     {
-      "title": "제24회 임베디드SW경진대회",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107135",
-      "badge": "신규",
-      "categories": [
-        "게임/소프트웨어"
-      ],
-      "organization": "산업통상자원부",
-      "dday": "D-120",
-      "dday_num": 120,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "0",
-      "views_num": 0
-    },
-    {
-      "title": "2026 그린바이오 기후테크 글로벌 프렉티컬 프로젝트 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107134",
+      "title": "제28기 뇌전증 인식개선 서포터즈 We are Epilizer 모집",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107176",
       "badge": "신규",
       "categories": [
         "기타"
       ],
-      "organization": "교육부",
-      "dday": "D-8",
-      "dday_num": 8,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "9",
-      "views_num": 9
-    },
-    {
-      "title": "2026년 유기농데이 기념 인스타툰 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107132",
-      "badge": "신규",
-      "categories": [
-        "디자인/캐릭터/웹툰"
-      ],
-      "organization": "한국친환경농업협회, 친환경농산물자조금관리위원회",
-      "dday": "D-16",
-      "dday_num": 16,
+      "organization": "사단법인 한국뇌전증협회",
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "11",
-      "views_num": 11
+      "views": "38",
+      "views_num": 38
+    },
+    {
+      "title": "제5회 부울경 대학생 스피치 대회",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107172",
+      "badge": "신규",
+      "categories": [
+        "기타"
+      ],
+      "organization": "사단법인미래교육문화진흥원",
+      "dday": "D-182",
+      "dday_num": 182,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "32",
+      "views_num": 32
+    },
+    {
+      "title": "22회 인천여성영화제 자원활동가 우피(WFFII)지기 모집",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107170",
+      "badge": "신규",
+      "categories": [
+        "봉사활동"
+      ],
+      "organization": "인천여성영화제 집행위원회",
+      "dday": "D-19",
+      "dday_num": 19,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "34",
+      "views_num": 34
     }
   ]
 }
