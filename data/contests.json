@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-08 16:09",
+  "last_updated": "2026-05-09 15:41",
   "total": 18,
   "contests": [
     {
-      "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집SPECIAL",
+      "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107186",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "기획/아이디어",
         "광고/마케팅",
@@ -15,12 +15,12 @@
         "취업/창업"
       ],
       "organization": "네이버 X 어반플레이",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수중",
       "status_class": "ing",
-      "views": "488",
-      "views_num": 488
+      "views": "1,427",
+      "views_num": 1427
     },
     {
       "title": "한화생명 드림플러스 인베스터 클럽 2기 모집",
@@ -34,12 +34,12 @@
         "취업/창업"
       ],
       "organization": "한화생명 드림플러스",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,637",
-      "views_num": 2637
+      "views": "4,004",
+      "views_num": 4004
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -52,12 +52,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-84",
-      "dday_num": 84,
+      "dday": "D-83",
+      "dday_num": 83,
       "status": "접수예정",
       "status_class": "future",
-      "views": "21,253",
-      "views_num": 21253
+      "views": "23,739",
+      "views_num": 23739
     },
     {
       "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 56기 모집",
@@ -71,12 +71,12 @@
         "기타"
       ],
       "organization": "글ego",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "15,381",
-      "views_num": 15381
+      "views": "17,325",
+      "views_num": 17325
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -91,12 +91,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-49",
-      "dday_num": 49,
+      "dday": "D-48",
+      "dday_num": 48,
       "status": "접수중",
       "status_class": "ing",
-      "views": "17,828",
-      "views_num": 17828
+      "views": "19,480",
+      "views_num": 19480
     },
     {
       "title": "제6기 그린리모델링 대학생기자단 모집",
@@ -111,12 +111,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "국토교통부, 국토안전관리원",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "19,890",
-      "views_num": 19890
+      "views": "21,538",
+      "views_num": 21538
     },
     {
       "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
@@ -130,12 +130,12 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "23,769",
-      "views_num": 23769
+      "views": "25,313",
+      "views_num": 25313
     },
     {
       "title": "2026 대학생 논문경진대회 장애의 재해석 공모전",
@@ -149,12 +149,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "22,586",
-      "views_num": 22586
+      "views": "24,099",
+      "views_num": 24099
     },
     {
       "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전",
@@ -168,12 +168,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "현대오토에버, 서울사회복지공동모금회",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "39,254",
-      "views_num": 39254
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "40,639",
+      "views_num": 40639
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -189,12 +189,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-67",
-      "dday_num": 67,
+      "dday": "D-66",
+      "dday_num": 66,
       "status": "접수예정",
       "status_class": "future",
-      "views": "56,798",
-      "views_num": 56798
+      "views": "58,292",
+      "views_num": 58292
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -208,12 +208,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "136,413",
-      "views_num": 136413
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "137,874",
+      "views_num": 137874
     },
     {
       "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전IDEA",
@@ -227,12 +227,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "대한민국시도지사협의회",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "139,981",
-      "views_num": 139981
+      "views": "141,518",
+      "views_num": 141518
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -246,12 +246,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-52",
-      "dday_num": 52,
+      "dday": "D-51",
+      "dday_num": 51,
       "status": "접수중",
       "status_class": "ing",
-      "views": "167,199",
-      "views_num": 167199
+      "views": "168,536",
+      "views_num": 168536
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -266,12 +266,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수중",
       "status_class": "ing",
-      "views": "193,759",
-      "views_num": 193759
+      "views": "195,169",
+      "views_num": 195169
     },
     {
       "title": "제8회 밀크T 창작동화 공모전IDEA",
@@ -284,12 +284,12 @@
         "기타"
       ],
       "organization": "㈜천재교육, ㈜천재교과서",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "205,275",
-      "views_num": 205275
+      "views": "206,744",
+      "views_num": 206744
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전",
@@ -303,42 +303,42 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-38",
-      "dday_num": 38,
+      "dday": "D-37",
+      "dday_num": 37,
       "status": "접수중",
       "status_class": "ing",
-      "views": "204,446",
-      "views_num": 204446
+      "views": "205,793",
+      "views_num": 205793
     },
     {
-      "title": "2026 대전MBC 전국창작동요대회",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107211",
-      "badge": "신규",
+      "title": "[국립인천해양박물관] 바다의 날 기념 제 1회 바다네컷 그리기 대회",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107221",
+      "badge": "",
       "categories": [
-        "예체능/미술/음악"
+        "디자인/캐릭터/웹툰"
       ],
-      "organization": "대전MBC",
-      "dday": "D-33",
-      "dday_num": 33,
+      "organization": "국립인천해양박물관",
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "51",
-      "views_num": 51
+      "views": "109",
+      "views_num": 109
     },
     {
-      "title": "[현대차 정몽구 재단] CMK 캠퍼스프러너 1기 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107210",
-      "badge": "신규",
+      "title": "제15회 충청북도 공공디자인 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107220",
+      "badge": "",
       "categories": [
-        "취업/창업"
+        "디자인/캐릭터/웹툰"
       ],
-      "organization": "현대차 정몽구 재단",
-      "dday": "D-19",
-      "dday_num": 19,
+      "organization": "충청북도",
+      "dday": "D-111",
+      "dday_num": 111,
       "status": "접수예정",
       "status_class": "future",
-      "views": "45",
-      "views_num": 45
+      "views": "87",
+      "views_num": 87
     }
   ]
 }
