@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 17:09",
+  "last_updated": "2026-05-14 16:56",
   "total": 15,
   "contests": [
     {
@@ -14,12 +14,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,409",
-      "views_num": 2409
+      "views": "4,028",
+      "views_num": 4028
     },
     {
       "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집",
@@ -34,12 +34,12 @@
         "취업/창업"
       ],
       "organization": "네이버 X 어반플레이",
-      "dday": "D-18",
-      "dday_num": 18,
+      "dday": "D-17",
+      "dday_num": 17,
       "status": "접수중",
       "status_class": "ing",
-      "views": "8,037",
-      "views_num": 8037
+      "views": "10,496",
+      "views_num": 10496
     },
     {
       "title": "한화생명 드림플러스 인베스터 클럽 2기 모집",
@@ -53,12 +53,12 @@
         "취업/창업"
       ],
       "organization": "한화생명 드림플러스",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "11,233",
-      "views_num": 11233
+      "views": "13,390",
+      "views_num": 13390
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -71,12 +71,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-79",
-      "dday_num": 79,
+      "dday": "D-78",
+      "dday_num": 78,
       "status": "접수예정",
       "status_class": "future",
-      "views": "34,911",
-      "views_num": 34911
+      "views": "36,965",
+      "views_num": 36965
     },
     {
       "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 56기 모집",
@@ -90,12 +90,12 @@
         "기타"
       ],
       "organization": "글ego",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "24,796",
-      "views_num": 24796
+      "dday": "",
+      "dday_num": 9999,
+      "status": "마감",
+      "status_class": "end",
+      "views": "26,827",
+      "views_num": 26827
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -110,12 +110,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-44",
-      "dday_num": 44,
+      "dday": "D-43",
+      "dday_num": 43,
       "status": "접수중",
       "status_class": "ing",
-      "views": "26,620",
-      "views_num": 26620
+      "views": "28,514",
+      "views_num": 28514
     },
     {
       "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
@@ -129,12 +129,12 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "31,920",
-      "views_num": 31920
+      "views": "33,816",
+      "views_num": 33816
     },
     {
       "title": "2026 대학생 논문경진대회 장애의 재해석 공모전IDEA",
@@ -148,12 +148,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "30,528",
-      "views_num": 30528
+      "views": "32,322",
+      "views_num": 32322
     },
     {
       "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전",
@@ -167,12 +167,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "현대오토에버, 서울사회복지공동모금회",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "47,008",
-      "views_num": 47008
+      "views": "48,877",
+      "views_num": 48877
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -188,12 +188,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-62",
-      "dday_num": 62,
+      "dday": "D-61",
+      "dday_num": 61,
       "status": "접수예정",
       "status_class": "future",
-      "views": "64,790",
-      "views_num": 64790
+      "views": "66,648",
+      "views_num": 66648
     },
     {
       "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
@@ -207,31 +207,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "144,445",
-      "views_num": 144445
-    },
-    {
-      "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전IDEA",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106166",
-      "badge": "SPECIAL",
-      "categories": [
-        "광고/마케팅",
-        "영상/UCC/사진",
-        "웹/모바일/IT",
-        "예체능/미술/음악",
-        "대외활동/서포터즈"
-      ],
-      "organization": "대한민국시도지사협의회",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "148,282",
-      "views_num": 148282
+      "views": "146,422",
+      "views_num": 146422
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -245,12 +226,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-47",
-      "dday_num": 47,
+      "dday": "D-46",
+      "dday_num": 46,
       "status": "접수중",
       "status_class": "ing",
-      "views": "174,703",
-      "views_num": 174703
+      "views": "176,559",
+      "views_num": 176559
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -265,15 +246,15 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-18",
-      "dday_num": 18,
+      "dday": "D-17",
+      "dday_num": 17,
       "status": "접수중",
       "status_class": "ing",
-      "views": "201,286",
-      "views_num": 201286
+      "views": "203,138",
+      "views_num": 203138
     },
     {
-      "title": "제10회 소비자지향성 개선과제 공모전",
+      "title": "제10회 소비자지향성 개선과제 공모전IDEA",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=105362",
       "badge": "SPECIAL",
       "categories": [
@@ -284,12 +265,27 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-33",
-      "dday_num": 33,
+      "dday": "D-32",
+      "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "211,809",
-      "views_num": 211809
+      "views": "213,712",
+      "views_num": 213712
+    },
+    {
+      "title": "2026 제6회 청송야송미술대전 전국공모",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107379",
+      "badge": "신규",
+      "categories": [
+        "예체능/미술/음악"
+      ],
+      "organization": "청송군,사)청송미술협회",
+      "dday": "D-105",
+      "dday_num": 105,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "33",
+      "views_num": 33
     }
   ]
 }
