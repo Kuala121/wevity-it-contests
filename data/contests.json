@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-16 15:48",
+  "last_updated": "2026-05-17 15:50",
   "total": 15,
   "contests": [
+    {
+      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전SPECIAL",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107427",
+      "badge": "신규",
+      "categories": [
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "웹/모바일/IT",
+        "게임/소프트웨어",
+        "예체능/미술/음악",
+        "기타"
+      ],
+      "organization": "국립아시아문화전당",
+      "dday": "D-75",
+      "dday_num": 75,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "4",
+      "views_num": 4
+    },
+    {
+      "title": "2026 한국수력원자력 기업이미지 공모전SPECIAL",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107426",
+      "badge": "신규",
+      "categories": [
+        "광고/마케팅",
+        "디자인/캐릭터/웹툰",
+        "웹/모바일/IT",
+        "과학/공학",
+        "예체능/미술/음악",
+        "기타"
+      ],
+      "organization": "한국수력원자력",
+      "dday": "D-74",
+      "dday_num": 74,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "50",
+      "views_num": 50
+    },
+    {
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전SPECIAL",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107425",
+      "badge": "신규",
+      "categories": [
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "웹/모바일/IT",
+        "과학/공학",
+        "예체능/미술/음악",
+        "기타"
+      ],
+      "organization": "한국수력원자력",
+      "dday": "D-74",
+      "dday_num": 74,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "49",
+      "views_num": 49
+    },
+    {
+      "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회SPECIALIDEA",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107424",
+      "badge": "신규",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "웹/모바일/IT",
+        "게임/소프트웨어",
+        "과학/공학",
+        "취업/창업"
+      ],
+      "organization": "부산광역시",
+      "dday": "D-39",
+      "dday_num": 39,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "147",
+      "views_num": 147
+    },
     {
       "title": "2026년 상반기 삼성생명 금융캠퍼스 한달 교육과정 참가자 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107232",
@@ -14,12 +94,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9,633",
-      "views_num": 9633
+      "views": "16,089",
+      "views_num": 16089
     },
     {
       "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집",
@@ -34,12 +114,12 @@
         "취업/창업"
       ],
       "organization": "네이버 X 어반플레이",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "16,899",
-      "views_num": 16899
+      "views": "23,477",
+      "views_num": 23477
     },
     {
       "title": "한화생명 드림플러스 인베스터 클럽 2기 모집",
@@ -53,12 +133,12 @@
         "취업/창업"
       ],
       "organization": "한화생명 드림플러스",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "19,184",
-      "views_num": 19184
+      "views": "25,594",
+      "views_num": 25594
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -71,12 +151,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-76",
-      "dday_num": 76,
+      "dday": "D-75",
+      "dday_num": 75,
       "status": "접수예정",
       "status_class": "future",
-      "views": "43,360",
-      "views_num": 43360
+      "views": "50,180",
+      "views_num": 50180
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -91,12 +171,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-41",
-      "dday_num": 41,
+      "dday": "D-40",
+      "dday_num": 40,
       "status": "접수중",
       "status_class": "ing",
-      "views": "34,059",
-      "views_num": 34059
+      "views": "39,987",
+      "views_num": 39987
     },
     {
       "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
@@ -110,12 +190,12 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "39,063",
-      "views_num": 39063
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "45,039",
+      "views_num": 45039
     },
     {
       "title": "2026 대학생 논문경진대회 장애의 재해석 공모전IDEA",
@@ -129,31 +209,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "37,570",
-      "views_num": 37570
-    },
-    {
-      "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106687",
-      "badge": "SPECIAL",
-      "categories": [
-        "기획/아이디어",
-        "웹/모바일/IT",
-        "게임/소프트웨어",
-        "과학/공학",
-        "대외활동/서포터즈"
-      ],
-      "organization": "현대오토에버, 서울사회복지공동모금회",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "54,154",
-      "views_num": 54154
+      "views": "43,426",
+      "views_num": 43426
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -169,31 +230,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-59",
-      "dday_num": 59,
+      "dday": "D-58",
+      "dday_num": 58,
       "status": "접수예정",
       "status_class": "future",
-      "views": "71,842",
-      "views_num": 71842
-    },
-    {
-      "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=106194",
-      "badge": "SPECIAL",
-      "categories": [
-        "기획/아이디어",
-        "웹/모바일/IT",
-        "게임/소프트웨어",
-        "과학/공학",
-        "기타"
-      ],
-      "organization": "과학기술정보통신부",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "151,368",
-      "views_num": 151368
+      "views": "77,704",
+      "views_num": 77704
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -207,12 +249,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-44",
-      "dday_num": 44,
+      "dday": "D-43",
+      "dday_num": 43,
       "status": "접수중",
       "status_class": "ing",
-      "views": "181,350",
-      "views_num": 181350
+      "views": "187,061",
+      "views_num": 187061
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -227,12 +269,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "207,867",
-      "views_num": 207867
+      "views": "213,630",
+      "views_num": 213630
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전IDEA",
@@ -246,42 +288,12 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-30",
-      "dday_num": 30,
+      "dday": "D-29",
+      "dday_num": 29,
       "status": "접수중",
       "status_class": "ing",
-      "views": "218,519",
-      "views_num": 218519
-    },
-    {
-      "title": "2026년 외교 공공데이터‧AI 활용 경진대회",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107410",
-      "badge": "",
-      "categories": [
-        "웹/모바일/IT"
-      ],
-      "organization": "외교부",
-      "dday": "D-58",
-      "dday_num": 58,
-      "status": "접수예정",
-      "status_class": "future",
-      "views": "144",
-      "views_num": 144
-    },
-    {
-      "title": "해양환경공단 2026 국민소통참여단 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107409",
-      "badge": "",
-      "categories": [
-        "대외활동/서포터즈"
-      ],
-      "organization": "해양환경공단",
-      "dday": "D-10",
-      "dday_num": 10,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "156",
-      "views_num": 156
+      "views": "224,198",
+      "views_num": 224198
     }
   ]
 }
