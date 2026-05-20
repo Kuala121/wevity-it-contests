@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 17:33",
+  "last_updated": "2026-05-20 17:49",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "기타"
       ],
       "organization": "국립아시아문화전당",
-      "dday": "D-73",
-      "dday_num": 73,
+      "dday": "D-72",
+      "dday_num": 72,
       "status": "접수중",
       "status_class": "ing",
-      "views": "7,226",
-      "views_num": 7226
+      "views": "10,233",
+      "views_num": 10233
     },
     {
       "title": "2026 한국수력원자력 기업이미지 공모전",
@@ -35,12 +35,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-72",
-      "dday_num": 72,
+      "dday": "D-71",
+      "dday_num": 71,
       "status": "접수예정",
       "status_class": "future",
-      "views": "7,157",
-      "views_num": 7157
+      "views": "10,259",
+      "views_num": 10259
     },
     {
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
@@ -55,12 +55,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-72",
-      "dday_num": 72,
+      "dday": "D-71",
+      "dday_num": 71,
       "status": "접수예정",
       "status_class": "future",
-      "views": "7,281",
-      "views_num": 7281
+      "views": "10,760",
+      "views_num": 10760
     },
     {
       "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회IDEA",
@@ -75,12 +75,12 @@
         "취업/창업"
       ],
       "organization": "부산광역시",
-      "dday": "D-37",
-      "dday_num": 37,
+      "dday": "D-36",
+      "dday_num": 36,
       "status": "접수중",
       "status_class": "ing",
-      "views": "7,324",
-      "views_num": 7324
+      "views": "10,448",
+      "views_num": 10448
     },
     {
       "title": "2026년 상반기  삼성생명 금융캠퍼스 한달 교육과정 참가자 모집",
@@ -94,12 +94,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "25,588",
-      "views_num": 25588
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "29,438",
+      "views_num": 29438
     },
     {
       "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집",
@@ -114,12 +114,12 @@
         "취업/창업"
       ],
       "organization": "네이버 X 어반플레이",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "33,100",
-      "views_num": 33100
+      "views": "36,804",
+      "views_num": 36804
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -132,12 +132,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-73",
-      "dday_num": 73,
+      "dday": "D-72",
+      "dday_num": 72,
       "status": "접수예정",
       "status_class": "future",
-      "views": "60,449",
-      "views_num": 60449
+      "views": "64,546",
+      "views_num": 64546
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -152,12 +152,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-38",
-      "dday_num": 38,
+      "dday": "D-37",
+      "dday_num": 37,
       "status": "접수중",
       "status_class": "ing",
-      "views": "48,660",
-      "views_num": 48660
+      "views": "51,946",
+      "views_num": 51946
     },
     {
       "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집",
@@ -171,12 +171,12 @@
         "취업/창업"
       ],
       "organization": "문화체육관광부, 한국콘텐츠진흥원",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "53,680",
-      "views_num": 53680
+      "views": "57,095",
+      "views_num": 57095
     },
     {
       "title": "2026 대학생 논문경진대회 장애의 재해석 공모전IDEA",
@@ -190,12 +190,12 @@
         "봉사활동"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "51,967",
-      "views_num": 51967
+      "views": "55,331",
+      "views_num": 55331
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -211,12 +211,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-56",
-      "dday_num": 56,
+      "dday": "D-55",
+      "dday_num": 55,
       "status": "접수예정",
       "status_class": "future",
-      "views": "86,184",
-      "views_num": 86184
+      "views": "89,607",
+      "views_num": 89607
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -230,12 +230,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-41",
-      "dday_num": 41,
+      "dday": "D-40",
+      "dday_num": 40,
       "status": "접수중",
       "status_class": "ing",
-      "views": "195,297",
-      "views_num": 195297
+      "views": "198,567",
+      "views_num": 198567
     },
     {
       "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
@@ -250,12 +250,12 @@
         "기타"
       ],
       "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "222,028",
-      "views_num": 222028
+      "views": "225,194",
+      "views_num": 225194
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전IDEA",
@@ -269,27 +269,27 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-27",
-      "dday_num": 27,
+      "dday": "D-26",
+      "dday_num": 26,
       "status": "접수중",
       "status_class": "ing",
-      "views": "232,511",
-      "views_num": 232511
+      "views": "235,704",
+      "views_num": 235704
     },
     {
-      "title": "제4회 전국 편지쓰기·예쁜 엽서 만들기 대회",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107524",
+      "title": "국가유산을 안내하는 대표 목소리를 찾습니다 국가유산 방문 캠페인 오디오 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107558",
       "badge": "신규",
       "categories": [
-        "문학/글/시나리오"
+        "예체능/미술/음악"
       ],
-      "organization": "도봉문화원 편지문학관",
-      "dday": "D-29",
-      "dday_num": 29,
+      "organization": "국가유산진흥원",
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "70",
-      "views_num": 70
+      "views": "59",
+      "views_num": 59
     }
   ]
 }
