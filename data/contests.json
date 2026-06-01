@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 16:00",
+  "last_updated": "2026-06-01 19:51",
   "total": 17,
   "contests": [
     {
@@ -14,12 +14,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-61",
-      "dday_num": 61,
+      "dday": "D-60",
+      "dday_num": 60,
       "status": "접수중",
       "status_class": "ing",
-      "views": "3,797",
-      "views_num": 3797
+      "views": "5,976",
+      "views_num": 5976
     },
     {
       "title": "한화생명금융서비스 WM컨설팅지사 금융영업캠퍼스 1기 모집",
@@ -33,12 +33,12 @@
         "기타"
       ],
       "organization": "한화생명금융서비스",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "8,242",
-      "views_num": 8242
+      "views": "10,963",
+      "views_num": 10963
     },
     {
       "title": "제7회 계룡장학재단 건축 아이디어 공모전IDEA",
@@ -51,12 +51,12 @@
         "예체능/미술/음악"
       ],
       "organization": "계룡장학재단",
-      "dday": "D-35",
-      "dday_num": 35,
+      "dday": "D-34",
+      "dday_num": 34,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9,310",
-      "views_num": 9310
+      "views": "12,063",
+      "views_num": 12063
     },
     {
       "title": "서울 디자인 AI 영상 공모전",
@@ -70,12 +70,12 @@
         "예체능/미술/음악"
       ],
       "organization": "서울특별시",
-      "dday": "D-30",
-      "dday_num": 30,
+      "dday": "D-29",
+      "dday_num": 29,
       "status": "접수중",
       "status_class": "ing",
-      "views": "10,062",
-      "views_num": 10062
+      "views": "13,016",
+      "views_num": 13016
     },
     {
       "title": "[한국문화정보원] 문화PD 24기 모집",
@@ -88,30 +88,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "한국문화정보원",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "12,226",
-      "views_num": 12226
-    },
-    {
-      "title": "2026년 개인정보 불법유통 대응 대학생 모니터링단 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107609",
-      "badge": "SPECIAL",
-      "categories": [
-        "광고/마케팅",
-        "웹/모바일/IT",
-        "대외활동/서포터즈",
-        "봉사활동"
-      ],
-      "organization": "개인정보보호위원회",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "12,941",
-      "views_num": 12941
+      "views": "15,103",
+      "views_num": 15103
     },
     {
       "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
@@ -126,12 +108,12 @@
         "기타"
       ],
       "organization": "국립아시아문화전당",
-      "dday": "D-61",
-      "dday_num": 61,
+      "dday": "D-60",
+      "dday_num": 60,
       "status": "접수중",
       "status_class": "ing",
-      "views": "27,187",
-      "views_num": 27187
+      "views": "29,795",
+      "views_num": 29795
     },
     {
       "title": "2026 한국수력원자력 기업이미지 공모전",
@@ -146,12 +128,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-60",
-      "dday_num": 60,
+      "dday": "D-59",
+      "dday_num": 59,
       "status": "접수중",
       "status_class": "ing",
-      "views": "26,584",
-      "views_num": 26584
+      "views": "29,165",
+      "views_num": 29165
     },
     {
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
@@ -166,12 +148,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-60",
-      "dday_num": 60,
+      "dday": "D-59",
+      "dday_num": 59,
       "status": "접수중",
       "status_class": "ing",
-      "views": "26,979",
-      "views_num": 26979
+      "views": "29,561",
+      "views_num": 29561
     },
     {
       "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회IDEA",
@@ -186,32 +168,12 @@
         "취업/창업"
       ],
       "organization": "부산광역시",
-      "dday": "D-25",
-      "dday_num": 25,
+      "dday": "D-24",
+      "dday_num": 24,
       "status": "접수중",
       "status_class": "ing",
-      "views": "28,011",
-      "views_num": 28011
-    },
-    {
-      "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107186",
-      "badge": "SPECIAL",
-      "categories": [
-        "기획/아이디어",
-        "광고/마케팅",
-        "영상/UCC/사진",
-        "웹/모바일/IT",
-        "대외활동/서포터즈",
-        "취업/창업"
-      ],
-      "organization": "네이버 X 어반플레이",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "53,429",
-      "views_num": 53429
+      "views": "30,565",
+      "views_num": 30565
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -224,12 +186,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-61",
-      "dday_num": 61,
+      "dday": "D-60",
+      "dday_num": 60,
       "status": "접수예정",
       "status_class": "future",
-      "views": "89,152",
-      "views_num": 89152
+      "views": "91,663",
+      "views_num": 91663
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -244,12 +206,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-26",
-      "dday_num": 26,
+      "dday": "D-25",
+      "dday_num": 25,
       "status": "접수중",
       "status_class": "ing",
-      "views": "67,047",
-      "views_num": 67047
+      "views": "69,463",
+      "views_num": 69463
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -265,12 +227,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-44",
-      "dday_num": 44,
+      "dday": "D-43",
+      "dday_num": 43,
       "status": "접수예정",
       "status_class": "future",
-      "views": "103,503",
-      "views_num": 103503
+      "views": "105,838",
+      "views_num": 105838
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -284,32 +246,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-29",
-      "dday_num": 29,
+      "dday": "D-28",
+      "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "211,662",
-      "views_num": 211662
-    },
-    {
-      "title": "제13회 산업안전보건 조사자료 논문 경진대회IDEA",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=105566",
-      "badge": "SPECIAL",
-      "categories": [
-        "기획/아이디어",
-        "광고/마케팅",
-        "논문/리포트",
-        "과학/공학",
-        "대외활동/서포터즈",
-        "기타"
-      ],
-      "organization": "한국산업안전보건공단 산업안전보건연구원",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "238,458",
-      "views_num": 238458
+      "views": "213,774",
+      "views_num": 213774
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전IDEA",
@@ -323,12 +265,57 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "248,852",
-      "views_num": 248852
+      "views": "251,131",
+      "views_num": 251131
+    },
+    {
+      "title": "2026 UN Tourism 청년인턴 모집 공고",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107883",
+      "badge": "신규",
+      "categories": [
+        "해외"
+      ],
+      "organization": "한국관광공사",
+      "dday": "D-17",
+      "dday_num": 17,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "39",
+      "views_num": 39
+    },
+    {
+      "title": "2026년 한어교 세계 대학생·중고등학생·초등학생 중국어대회 한국예선",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107882",
+      "badge": "신규",
+      "categories": [
+        "예체능/미술/음악"
+      ],
+      "organization": "주한중국대사관, 한국현대중국연구회",
+      "dday": "D-4",
+      "dday_num": 4,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "65",
+      "views_num": 65
+    },
+    {
+      "title": "2026 밀리로드 출간 공모전 시즌 3",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107877",
+      "badge": "신규",
+      "categories": [
+        "기타"
+      ],
+      "organization": "밀리의서재",
+      "dday": "D-91",
+      "dday_num": 91,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "73",
+      "views_num": 73
     }
   ]
 }
