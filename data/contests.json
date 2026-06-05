@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-04 17:39",
+  "last_updated": "2026-06-05 17:08",
   "total": 17,
   "contests": [
     {
-      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전SPECIAL",
+      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107977",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "광고/마케팅",
         "영상/UCC/사진",
@@ -14,12 +14,12 @@
         "예체능/미술/음악"
       ],
       "organization": "국어문화원연합회",
-      "dday": "D-26",
-      "dday_num": 26,
+      "dday": "D-25",
+      "dday_num": 25,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,308",
-      "views_num": 2308
+      "views": "3,661",
+      "views_num": 3661
     },
     {
       "title": "2026년 KB Dream Wave 2030 KB라스쿨 중등 ４기 멘토링 멘토 모집",
@@ -33,12 +33,12 @@
         "취업/창업"
       ],
       "organization": "KB국민은행",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "5,009",
-      "views_num": 5009
+      "views": "6,547",
+      "views_num": 6547
     },
     {
       "title": "[무료] 2026년 6월 삼성생명 금융아카데미 참가자 모집",
@@ -52,12 +52,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "5,502",
-      "views_num": 5502
+      "views": "7,084",
+      "views_num": 7084
     },
     {
       "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
@@ -71,12 +71,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-57",
-      "dday_num": 57,
+      "dday": "D-56",
+      "dday_num": 56,
       "status": "접수중",
       "status_class": "ing",
-      "views": "14,728",
-      "views_num": 14728
+      "views": "16,881",
+      "views_num": 16881
     },
     {
       "title": "한화생명금융서비스 WM컨설팅지사 금융영업캠퍼스 1기 모집",
@@ -90,12 +90,12 @@
         "기타"
       ],
       "organization": "한화생명금융서비스",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "19,906",
-      "views_num": 19906
+      "views": "21,956",
+      "views_num": 21956
     },
     {
       "title": "제7회 계룡장학재단 건축 아이디어 공모전IDEA",
@@ -108,12 +108,12 @@
         "예체능/미술/음악"
       ],
       "organization": "계룡장학재단",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수중",
       "status_class": "ing",
-      "views": "20,138",
-      "views_num": 20138
+      "views": "22,185",
+      "views_num": 22185
     },
     {
       "title": "서울 디자인 AI 영상 공모전",
@@ -127,12 +127,12 @@
         "예체능/미술/음악"
       ],
       "organization": "서울특별시",
-      "dday": "D-26",
-      "dday_num": 26,
+      "dday": "D-25",
+      "dday_num": 25,
       "status": "접수중",
       "status_class": "ing",
-      "views": "21,281",
-      "views_num": 21281
+      "views": "23,278",
+      "views_num": 23278
     },
     {
       "title": "[한국문화정보원] 문화PD 24기 모집",
@@ -145,12 +145,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "한국문화정보원",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "23,866",
-      "views_num": 23866
+      "views": "25,868",
+      "views_num": 25868
     },
     {
       "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
@@ -165,12 +165,12 @@
         "기타"
       ],
       "organization": "국립아시아문화전당",
-      "dday": "D-57",
-      "dday_num": 57,
+      "dday": "D-56",
+      "dday_num": 56,
       "status": "접수중",
       "status_class": "ing",
-      "views": "37,864",
-      "views_num": 37864
+      "views": "39,689",
+      "views_num": 39689
     },
     {
       "title": "2026 한국수력원자력 기업이미지 공모전",
@@ -185,12 +185,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-56",
-      "dday_num": 56,
+      "dday": "D-55",
+      "dday_num": 55,
       "status": "접수중",
       "status_class": "ing",
-      "views": "36,890",
-      "views_num": 36890
+      "views": "38,546",
+      "views_num": 38546
     },
     {
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
@@ -205,12 +205,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-56",
-      "dday_num": 56,
+      "dday": "D-55",
+      "dday_num": 55,
       "status": "접수중",
       "status_class": "ing",
-      "views": "37,585",
-      "views_num": 37585
+      "views": "39,335",
+      "views_num": 39335
     },
     {
       "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회IDEA",
@@ -225,12 +225,12 @@
         "취업/창업"
       ],
       "organization": "부산광역시",
-      "dday": "D-21",
-      "dday_num": 21,
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "38,153",
-      "views_num": 38153
+      "views": "39,960",
+      "views_num": 39960
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전",
@@ -243,12 +243,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-57",
-      "dday_num": 57,
+      "dday": "D-56",
+      "dday_num": 56,
       "status": "접수예정",
       "status_class": "future",
-      "views": "100,159",
-      "views_num": 100159
+      "views": "102,869",
+      "views_num": 102869
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -263,12 +263,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-22",
-      "dday_num": 22,
+      "dday": "D-21",
+      "dday_num": 21,
       "status": "접수중",
       "status_class": "ing",
-      "views": "76,592",
-      "views_num": 76592
+      "views": "78,350",
+      "views_num": 78350
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -284,12 +284,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-40",
-      "dday_num": 40,
+      "dday": "D-39",
+      "dday_num": 39,
       "status": "접수예정",
       "status_class": "future",
-      "views": "113,395",
-      "views_num": 113395
+      "views": "115,108",
+      "views_num": 115108
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -303,12 +303,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-25",
-      "dday_num": 25,
+      "dday": "D-24",
+      "dday_num": 24,
       "status": "접수중",
       "status_class": "ing",
-      "views": "220,518",
-      "views_num": 220518
+      "views": "222,308",
+      "views_num": 222308
     },
     {
       "title": "제10회 소비자지향성 개선과제 공모전IDEA",
@@ -322,12 +322,12 @@
         "기타"
       ],
       "organization": "공정거래위원회",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "258,242",
-      "views_num": 258242
+      "views": "259,842",
+      "views_num": 259842
     }
   ]
 }
