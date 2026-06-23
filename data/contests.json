@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-22 18:40",
+  "last_updated": "2026-06-23 17:10",
   "total": 25,
   "contests": [
     {
-      "title": "2026 장애 공감 공모전SPECIAL",
+      "title": "2026 장애 공감 공모전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108549",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "광고/마케팅",
         "영상/UCC/사진",
@@ -14,12 +14,12 @@
         "기타"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-50",
-      "dday_num": 50,
+      "dday": "D-49",
+      "dday_num": 49,
       "status": "접수중",
       "status_class": "ing",
-      "views": "83",
-      "views_num": 83
+      "views": "846",
+      "views_num": 846
     },
     {
       "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
@@ -34,12 +34,12 @@
         "기타"
       ],
       "organization": "제주MBC",
-      "dday": "D-53",
-      "dday_num": 53,
+      "dday": "D-52",
+      "dday_num": 52,
       "status": "접수중",
       "status_class": "ing",
-      "views": "820",
-      "views_num": 820
+      "views": "1,604",
+      "views_num": 1604
     },
     {
       "title": "제7회 좋은데이 미술대전",
@@ -52,12 +52,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-74",
-      "dday_num": 74,
+      "dday": "D-73",
+      "dday_num": 73,
       "status": "접수예정",
       "status_class": "future",
-      "views": "4,665",
-      "views_num": 4665
+      "views": "5,892",
+      "views_num": 5892
     },
     {
       "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
@@ -72,12 +72,12 @@
         "기타"
       ],
       "organization": "작필(作筆)",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "4,344",
-      "views_num": 4344
+      "views": "5,507",
+      "views_num": 5507
     },
     {
       "title": "2026 CHAI 대학생 AI 광고 공모전",
@@ -92,12 +92,12 @@
         "취업/창업"
       ],
       "organization": "차이커뮤니케이션",
-      "dday": "D-38",
-      "dday_num": 38,
+      "dday": "D-37",
+      "dday_num": 37,
       "status": "접수예정",
       "status_class": "future",
-      "views": "7,047",
-      "views_num": 7047
+      "views": "8,461",
+      "views_num": 8461
     },
     {
       "title": "2026 성평등 영상 콘텐츠 공모전",
@@ -112,12 +112,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "제주특별자치도",
-      "dday": "D-38",
-      "dday_num": 38,
+      "dday": "D-37",
+      "dday_num": 37,
       "status": "접수예정",
       "status_class": "future",
-      "views": "11,927",
-      "views_num": 11927
+      "views": "13,427",
+      "views_num": 13427
     },
     {
       "title": "2026년 임업통계 활용 경진대회",
@@ -131,12 +131,12 @@
         "과학/공학"
       ],
       "organization": "산림청",
-      "dday": "D-39",
-      "dday_num": 39,
+      "dday": "D-38",
+      "dday_num": 38,
       "status": "접수중",
       "status_class": "ing",
-      "views": "11,590",
-      "views_num": 11590
+      "views": "12,965",
+      "views_num": 12965
     },
     {
       "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
@@ -151,12 +151,12 @@
         "해외"
       ],
       "organization": "iM금융그룹",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "12,578",
-      "views_num": 12578
+      "views": "14,327",
+      "views_num": 14327
     },
     {
       "title": "2026년 현대자동차그룹 K-뉴딜 아카데미 HINT 교육생 모집",
@@ -171,12 +171,12 @@
         "취업/창업"
       ],
       "organization": "현대자동차그룹",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9,925",
-      "views_num": 9925
+      "views": "11,384",
+      "views_num": 11384
     },
     {
       "title": "2026년 상반기 삼성생명 금융캠퍼스 모집",
@@ -190,12 +190,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "17,657",
-      "views_num": 17657
+      "views": "18,880",
+      "views_num": 18880
     },
     {
       "title": "[김대중노벨평화상기념관] 2026 전국 대학생 스피치 대회 공모전",
@@ -209,12 +209,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "김대중노벨평화상기념관",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수예정",
       "status_class": "future",
-      "views": "25,233",
-      "views_num": 25233
+      "views": "26,500",
+      "views_num": 26500
     },
     {
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
@@ -228,12 +228,12 @@
         "예체능/미술/음악"
       ],
       "organization": "국어문화원연합회",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "38,696",
-      "views_num": 38696
+      "views": "39,899",
+      "views_num": 39899
     },
     {
       "title": "넥슨 영 프로그래머스 컵 (NEXON Young Programmers Cup)",
@@ -245,12 +245,12 @@
         "과학/공학"
       ],
       "organization": "넥슨",
-      "dday": "D-27",
-      "dday_num": 27,
+      "dday": "D-26",
+      "dday_num": 26,
       "status": "접수중",
       "status_class": "ing",
-      "views": "31,776",
-      "views_num": 31776
+      "views": "32,699",
+      "views_num": 32699
     },
     {
       "title": "[무료] 2026년 7월 삼성생명 Special 금융아카데미 모집",
@@ -264,12 +264,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "41,196",
-      "views_num": 41196
+      "views": "42,255",
+      "views_num": 42255
     },
     {
       "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
@@ -283,12 +283,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-39",
-      "dday_num": 39,
+      "dday": "D-38",
+      "dday_num": 38,
       "status": "접수중",
       "status_class": "ing",
-      "views": "51,587",
-      "views_num": 51587
+      "views": "52,923",
+      "views_num": 52923
     },
     {
       "title": "제7회 계룡장학재단 건축 아이디어 공모전IDEA",
@@ -301,12 +301,12 @@
         "예체능/미술/음악"
       ],
       "organization": "계룡장학재단",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "54,055",
-      "views_num": 54055
+      "views": "55,145",
+      "views_num": 55145
     },
     {
       "title": "서울 디자인 AI 영상 공모전",
@@ -320,12 +320,12 @@
         "예체능/미술/음악"
       ],
       "organization": "서울특별시",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "55,216",
-      "views_num": 55216
+      "views": "56,302",
+      "views_num": 56302
     },
     {
       "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
@@ -340,12 +340,12 @@
         "기타"
       ],
       "organization": "국립아시아문화전당",
-      "dday": "D-39",
-      "dday_num": 39,
+      "dday": "D-38",
+      "dday_num": 38,
       "status": "접수중",
       "status_class": "ing",
-      "views": "70,758",
-      "views_num": 70758
+      "views": "71,744",
+      "views_num": 71744
     },
     {
       "title": "2026 한국수력원자력 기업이미지 공모전",
@@ -360,12 +360,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-38",
-      "dday_num": 38,
+      "dday": "D-37",
+      "dday_num": 37,
       "status": "접수중",
       "status_class": "ing",
-      "views": "68,376",
-      "views_num": 68376
+      "views": "69,340",
+      "views_num": 69340
     },
     {
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
@@ -380,12 +380,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-38",
-      "dday_num": 38,
+      "dday": "D-37",
+      "dday_num": 37,
       "status": "접수중",
       "status_class": "ing",
-      "views": "69,290",
-      "views_num": 69290
+      "views": "70,236",
+      "views_num": 70236
     },
     {
       "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회IDEA",
@@ -400,12 +400,12 @@
         "취업/창업"
       ],
       "organization": "부산광역시",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "71,595",
-      "views_num": 71595
+      "views": "72,672",
+      "views_num": 72672
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전IDEA",
@@ -418,12 +418,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-39",
-      "dday_num": 39,
+      "dday": "D-38",
+      "dday_num": 38,
       "status": "접수예정",
       "status_class": "future",
-      "views": "148,471",
-      "views_num": 148471
+      "views": "150,190",
+      "views_num": 150190
     },
     {
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
@@ -438,12 +438,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "108,944",
-      "views_num": 108944
+      "views": "110,049",
+      "views_num": 110049
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -459,12 +459,12 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-22",
-      "dday_num": 22,
+      "dday": "D-21",
+      "dday_num": 21,
       "status": "접수중",
       "status_class": "ing",
-      "views": "145,646",
-      "views_num": 145646
+      "views": "146,613",
+      "views_num": 146613
     },
     {
       "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
@@ -478,12 +478,12 @@
         "예체능/미술/음악"
       ],
       "organization": "경기건축문화제 추진위원회",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "250,037",
-      "views_num": 250037
+      "views": "250,991",
+      "views_num": 250991
     }
   ]
 }
