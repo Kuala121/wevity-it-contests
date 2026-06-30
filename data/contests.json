@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-29 17:27",
-  "total": 26,
+  "last_updated": "2026-06-30 17:00",
+  "total": 23,
   "contests": [
     {
-      "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 57기 모집SPECIAL",
+      "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 57기 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108746",
-      "badge": "신규",
+      "badge": "SPECIAL",
       "categories": [
         "논문/리포트",
         "문학/글/시나리오",
@@ -14,12 +14,12 @@
         "기타"
       ],
       "organization": "글ego",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "77",
-      "views_num": 77
+      "views": "1,144",
+      "views_num": 1144
     },
     {
       "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)",
@@ -33,12 +33,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-25",
-      "dday_num": 25,
+      "dday": "D-24",
+      "dday_num": 24,
       "status": "접수중",
       "status_class": "ing",
-      "views": "1,031",
-      "views_num": 1031
+      "views": "2,059",
+      "views_num": 2059
     },
     {
       "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
@@ -53,12 +53,12 @@
         "기타"
       ],
       "organization": "코웨이",
-      "dday": "D-31",
-      "dday_num": 31,
-      "status": "접수예정",
-      "status_class": "future",
-      "views": "4,567",
-      "views_num": 4567
+      "dday": "D-30",
+      "dday_num": 30,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "6,321",
+      "views_num": 6321
     },
     {
       "title": "2026년 미래여성경제인육성사업 창업아이디어 멘토링•IP권리화 프로그램 참가자 모집",
@@ -73,12 +73,12 @@
         "취업/창업"
       ],
       "organization": "중소벤처기업부",
-      "dday": "D-32",
-      "dday_num": 32,
+      "dday": "D-31",
+      "dday_num": 31,
       "status": "접수중",
       "status_class": "ing",
-      "views": "5,740",
-      "views_num": 5740
+      "views": "7,459",
+      "views_num": 7459
     },
     {
       "title": "2026 장애 공감 공모전",
@@ -92,12 +92,12 @@
         "기타"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-43",
-      "dday_num": 43,
+      "dday": "D-42",
+      "dday_num": 42,
       "status": "접수중",
       "status_class": "ing",
-      "views": "7,343",
-      "views_num": 7343
+      "views": "8,773",
+      "views_num": 8773
     },
     {
       "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
@@ -112,12 +112,12 @@
         "기타"
       ],
       "organization": "제주MBC",
-      "dday": "D-46",
-      "dday_num": 46,
+      "dday": "D-45",
+      "dday_num": 45,
       "status": "접수중",
       "status_class": "ing",
-      "views": "10,199",
-      "views_num": 10199
+      "views": "12,036",
+      "views_num": 12036
     },
     {
       "title": "제7회 좋은데이 미술대전",
@@ -130,12 +130,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-67",
-      "dday_num": 67,
+      "dday": "D-66",
+      "dday_num": 66,
       "status": "접수예정",
       "status_class": "future",
-      "views": "16,346",
-      "views_num": 16346
+      "views": "18,126",
+      "views_num": 18126
     },
     {
       "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
@@ -150,12 +150,12 @@
         "기타"
       ],
       "organization": "작필(作筆)",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "15,301",
-      "views_num": 15301
+      "views": "17,010",
+      "views_num": 17010
     },
     {
       "title": "2026 CHAI 대학생 AI 광고 공모전",
@@ -170,12 +170,12 @@
         "취업/창업"
       ],
       "organization": "차이커뮤니케이션",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수예정",
       "status_class": "future",
-      "views": "19,393",
-      "views_num": 19393
+      "views": "21,255",
+      "views_num": 21255
     },
     {
       "title": "2026 성평등 영상 콘텐츠 공모전",
@@ -190,12 +190,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "제주특별자치도",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수예정",
       "status_class": "future",
-      "views": "22,563",
-      "views_num": 22563
+      "views": "24,157",
+      "views_num": 24157
     },
     {
       "title": "2026년 임업통계 활용 경진대회",
@@ -209,32 +209,12 @@
         "과학/공학"
       ],
       "organization": "산림청",
-      "dday": "D-32",
-      "dday_num": 32,
+      "dday": "D-31",
+      "dday_num": 31,
       "status": "접수중",
       "status_class": "ing",
-      "views": "22,145",
-      "views_num": 22145
-    },
-    {
-      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108287",
-      "badge": "SPECIAL",
-      "categories": [
-        "기획/아이디어",
-        "웹/모바일/IT",
-        "게임/소프트웨어",
-        "과학/공학",
-        "취업/창업",
-        "해외"
-      ],
-      "organization": "iM금융그룹",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "24,247",
-      "views_num": 24247
+      "views": "23,768",
+      "views_num": 23768
     },
     {
       "title": "[김대중노벨평화상기념관] 2026 전국 대학생 스피치 대회 공모전",
@@ -248,31 +228,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "김대중노벨평화상기념관",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수예정",
       "status_class": "future",
-      "views": "34,566",
-      "views_num": 34566
-    },
-    {
-      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107977",
-      "badge": "SPECIAL",
-      "categories": [
-        "광고/마케팅",
-        "영상/UCC/사진",
-        "웹/모바일/IT",
-        "문학/글/시나리오",
-        "예체능/미술/음악"
-      ],
-      "organization": "국어문화원연합회",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "47,976",
-      "views_num": 47976
+      "views": "36,101",
+      "views_num": 36101
     },
     {
       "title": "넥슨 영 프로그래머스 컵 (NEXON Young Programmers Cup)",
@@ -284,12 +245,12 @@
         "과학/공학"
       ],
       "organization": "넥슨",
-      "dday": "D-20",
-      "dday_num": 20,
+      "dday": "D-19",
+      "dday_num": 19,
       "status": "접수중",
       "status_class": "ing",
-      "views": "40,096",
-      "views_num": 40096
+      "views": "41,571",
+      "views_num": 41571
     },
     {
       "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
@@ -303,12 +264,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-32",
-      "dday_num": 32,
+      "dday": "D-31",
+      "dday_num": 31,
       "status": "접수중",
       "status_class": "ing",
-      "views": "61,298",
-      "views_num": 61298
+      "views": "62,880",
+      "views_num": 62880
     },
     {
       "title": "제7회 계룡장학재단 건축 아이디어 공모전IDEA",
@@ -321,31 +282,12 @@
         "예체능/미술/음악"
       ],
       "organization": "계룡장학재단",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "63,112",
-      "views_num": 63112
-    },
-    {
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=107650",
-      "badge": "SPECIAL",
-      "categories": [
-        "광고/마케팅",
-        "영상/UCC/사진",
-        "웹/모바일/IT",
-        "게임/소프트웨어",
-        "예체능/미술/음악"
-      ],
-      "organization": "서울특별시",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "64,203",
-      "views_num": 64203
+      "views": "64,661",
+      "views_num": 64661
     },
     {
       "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전IDEA",
@@ -360,12 +302,12 @@
         "기타"
       ],
       "organization": "국립아시아문화전당",
-      "dday": "D-32",
-      "dday_num": 32,
+      "dday": "D-31",
+      "dday_num": 31,
       "status": "접수중",
       "status_class": "ing",
-      "views": "79,440",
-      "views_num": 79440
+      "views": "80,941",
+      "views_num": 80941
     },
     {
       "title": "2026 한국수력원자력 기업이미지 공모전",
@@ -380,12 +322,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수중",
       "status_class": "ing",
-      "views": "76,779",
-      "views_num": 76779
+      "views": "78,195",
+      "views_num": 78195
     },
     {
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전IDEA",
@@ -400,12 +342,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수중",
       "status_class": "ing",
-      "views": "77,562",
-      "views_num": 77562
+      "views": "78,995",
+      "views_num": 78995
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전IDEA",
@@ -418,12 +360,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-32",
-      "dday_num": 32,
-      "status": "접수예정",
-      "status_class": "future",
-      "views": "160,174",
-      "views_num": 160174
+      "dday": "D-31",
+      "dday_num": 31,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "161,934",
+      "views_num": 161934
     },
     {
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
@@ -439,61 +381,57 @@
         "기타"
       ],
       "organization": "전주MBC K-하이테크 플랫폼",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "154,478",
-      "views_num": 154478
+      "views": "155,890",
+      "views_num": 155890
     },
     {
-      "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=105948",
-      "badge": "SPECIAL",
-      "categories": [
-        "논문/리포트",
-        "디자인/캐릭터/웹툰",
-        "과학/공학",
-        "건축/건설/인테리어",
-        "예체능/미술/음악"
-      ],
-      "organization": "경기건축문화제 추진위원회",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "258,061",
-      "views_num": 258061
-    },
-    {
-      "title": "풀무원샘물 하루귀리 대학생 서포터즈 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108744",
+      "title": "제18회 서울국제건축영화제 자원활동가 씨앗프렌즈 모집",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108789",
       "badge": "신규",
       "categories": [
-        "대외활동/서포터즈"
+        "봉사활동"
       ],
-      "organization": "풀무원",
-      "dday": "D-13",
-      "dday_num": 13,
+      "organization": "서울국제건축영화제",
+      "dday": "D-21",
+      "dday_num": 21,
       "status": "접수중",
       "status_class": "ing",
-      "views": "32",
-      "views_num": 32
+      "views": "13",
+      "views_num": 13
     },
     {
-      "title": "2026이천유니버스 코스프레대회 참가자 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108742",
+      "title": "제9회 김명배문학상 공모",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108787",
       "badge": "신규",
       "categories": [
-        "기타"
+        "문학/글/시나리오"
       ],
-      "organization": "이천문화원",
-      "dday": "D-33",
-      "dday_num": 33,
+      "organization": "김명배문학상운영위원회",
+      "dday": "D-31",
+      "dday_num": 31,
       "status": "접수중",
       "status_class": "ing",
-      "views": "21",
-      "views_num": 21
+      "views": "15",
+      "views_num": 15
+    },
+    {
+      "title": "2026년 대학(원)생 한의약 창업 아이디어 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108786",
+      "badge": "신규",
+      "categories": [
+        "취업/창업"
+      ],
+      "organization": "한국한의약진흥원",
+      "dday": "D-30",
+      "dday_num": 30,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "10",
+      "views_num": 10
     }
   ]
 }
