@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-26 15:54",
+  "last_updated": "2026-07-27 16:53",
   "total": 20,
   "contests": [
+    {
+      "title": "제17회 LH 국토기술대전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109568",
+      "badge": "SPECIAL",
+      "categories": [
+        "기획/아이디어",
+        "논문/리포트",
+        "웹/모바일/IT",
+        "게임/소프트웨어",
+        "과학/공학",
+        "건축/건설/인테리어"
+      ],
+      "organization": "LH 한국토지주택공사",
+      "dday": "D-32",
+      "dday_num": 32,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "1,406",
+      "views_num": 1406
+    },
     {
       "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109527",
@@ -15,12 +35,12 @@
         "기타"
       ],
       "organization": "한국중부발전(주)",
-      "dday": "D-19",
-      "dday_num": 19,
+      "dday": "D-18",
+      "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,857",
-      "views_num": 2857
+      "views": "6,610",
+      "views_num": 6610
     },
     {
       "title": "2026년 상반기 삼성생명 금융캠퍼스 참가자 모집",
@@ -34,12 +54,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "5,648",
-      "views_num": 5648
+      "views": "9,913",
+      "views_num": 9913
     },
     {
       "title": "제2회 매일유업 대학생 AI 영상 공모전",
@@ -54,12 +74,12 @@
         "기타"
       ],
       "organization": "매일유업",
-      "dday": "D-22",
-      "dday_num": 22,
+      "dday": "D-21",
+      "dday_num": 21,
       "status": "접수중",
       "status_class": "ing",
-      "views": "29,292",
-      "views_num": 29292
+      "views": "33,666",
+      "views_num": 33666
     },
     {
       "title": "2026 대전 AI 영상 공모전",
@@ -74,12 +94,12 @@
         "기타"
       ],
       "organization": "대전광역시",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수중",
       "status_class": "ing",
-      "views": "24,883",
-      "views_num": 24883
+      "views": "28,933",
+      "views_num": 28933
     },
     {
       "title": "[KB국민은행] 제 8회  KB A.I Challenge",
@@ -94,12 +114,12 @@
         "과학/공학"
       ],
       "organization": "KB국민은행",
-      "dday": "D-8",
-      "dday_num": 8,
+      "dday": "D-7",
+      "dday_num": 7,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "29,714",
-      "views_num": 29714
+      "views": "33,904",
+      "views_num": 33904
     },
     {
       "title": "[무료] 2026년 8월 삼성생명 Special 금융아카데미 모집",
@@ -113,12 +133,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "55,469",
-      "views_num": 55469
+      "views": "59,242",
+      "views_num": 59242
     },
     {
       "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
@@ -133,12 +153,12 @@
         "기타"
       ],
       "organization": "코웨이",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "68,661",
-      "views_num": 68661
+      "views": "72,626",
+      "views_num": 72626
     },
     {
       "title": "2026년 미래여성경제인육성사업 창업아이디어 멘토링•IP권리화 프로그램 참가자 모집",
@@ -153,12 +173,12 @@
         "취업/창업"
       ],
       "organization": "중소벤처기업부",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "62,967",
-      "views_num": 62967
+      "views": "66,611",
+      "views_num": 66611
     },
     {
       "title": "2026 장애 공감 공모전",
@@ -172,12 +192,12 @@
         "기타"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "57,697",
-      "views_num": 57697
+      "views": "61,195",
+      "views_num": 61195
     },
     {
       "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
@@ -192,12 +212,12 @@
         "기타"
       ],
       "organization": "제주MBC",
-      "dday": "D-19",
-      "dday_num": 19,
+      "dday": "D-18",
+      "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "68,093",
-      "views_num": 68093
+      "views": "71,756",
+      "views_num": 71756
     },
     {
       "title": "제7회 좋은데이 미술대전",
@@ -210,12 +230,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-40",
-      "dday_num": 40,
+      "dday": "D-39",
+      "dday_num": 39,
       "status": "접수예정",
       "status_class": "future",
-      "views": "75,917",
-      "views_num": 75917
+      "views": "79,867",
+      "views_num": 79867
     },
     {
       "title": "2026 CHAI 대학생 AI 광고 공모전",
@@ -230,12 +250,12 @@
         "취업/창업"
       ],
       "organization": "차이커뮤니케이션",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "80,185",
-      "views_num": 80185
+      "views": "84,151",
+      "views_num": 84151
     },
     {
       "title": "2026 성평등 영상 콘텐츠 공모전",
@@ -250,12 +270,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "제주특별자치도",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "78,935",
-      "views_num": 78935
+      "views": "82,697",
+      "views_num": 82697
     },
     {
       "title": "2026년 임업통계 활용 경진대회",
@@ -269,12 +289,12 @@
         "과학/공학"
       ],
       "organization": "산림청",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "80,456",
-      "views_num": 80456
+      "views": "84,466",
+      "views_num": 84466
     },
     {
       "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
@@ -288,12 +308,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "문화체육관광부",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "119,152",
-      "views_num": 119152
+      "views": "123,130",
+      "views_num": 123130
     },
     {
       "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전IDEA",
@@ -308,12 +328,12 @@
         "기타"
       ],
       "organization": "국립아시아문화전당",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "135,768",
-      "views_num": 135768
+      "views": "139,560",
+      "views_num": 139560
     },
     {
       "title": "2026 한국수력원자력 기업이미지 공모전",
@@ -328,12 +348,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "130,279",
-      "views_num": 130279
+      "views": "134,019",
+      "views_num": 134019
     },
     {
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전IDEA",
@@ -348,12 +368,12 @@
         "기타"
       ],
       "organization": "한국수력원자력",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "131,754",
-      "views_num": 131754
+      "views": "135,546",
+      "views_num": 135546
     },
     {
       "title": "2026 제15회 협성독서왕 독후감 공모전IDEA",
@@ -366,27 +386,12 @@
         "기타"
       ],
       "organization": "협성문화재단•북두칠성도서관",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "223,525",
-      "views_num": 223525
-    },
-    {
-      "title": "제3회 서울 한강 국제영화제 작품공모",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109569",
-      "badge": "신규",
-      "categories": [
-        "영상/UCC/사진"
-      ],
-      "organization": "4.19혁명공로자회 서울특별시지부",
-      "dday": "D-36",
-      "dday_num": 36,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "37",
-      "views_num": 37
+      "views": "227,674",
+      "views_num": 227674
     }
   ]
 }
