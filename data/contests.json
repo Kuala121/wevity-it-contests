@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 16:30",
+  "last_updated": "2026-08-01 15:52",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "건축/건설/인테리어"
       ],
       "organization": "LH 한국토지주택공사",
-      "dday": "D-28",
-      "dday_num": 28,
+      "dday": "D-27",
+      "dday_num": 27,
       "status": "접수중",
       "status_class": "ing",
-      "views": "8,289",
-      "views_num": 8289
+      "views": "9,721",
+      "views_num": 9721
     },
     {
       "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
@@ -35,12 +35,12 @@
         "기타"
       ],
       "organization": "한국중부발전(주)",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "15,028",
-      "views_num": 15028
+      "views": "16,749",
+      "views_num": 16749
     },
     {
       "title": "2026년 상반기 삼성생명 금융캠퍼스 참가자 모집",
@@ -54,12 +54,12 @@
         "기타"
       ],
       "organization": "삼성생명",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "19,046",
-      "views_num": 19046
+      "views": "20,608",
+      "views_num": 20608
     },
     {
       "title": "제2회 매일유업 대학생 AI 영상 공모전",
@@ -74,12 +74,12 @@
         "기타"
       ],
       "organization": "매일유업",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "42,991",
-      "views_num": 42991
+      "views": "44,701",
+      "views_num": 44701
     },
     {
       "title": "2026 대전 AI 영상 공모전",
@@ -94,12 +94,12 @@
         "기타"
       ],
       "organization": "대전광역시",
-      "dday": "D-18",
-      "dday_num": 18,
+      "dday": "D-17",
+      "dday_num": 17,
       "status": "접수중",
       "status_class": "ing",
-      "views": "38,108",
-      "views_num": 38108
+      "views": "39,365",
+      "views_num": 39365
     },
     {
       "title": "[KB국민은행] 제 8회  KB A.I Challenge",
@@ -114,15 +114,15 @@
         "과학/공학"
       ],
       "organization": "KB국민은행",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "43,095",
-      "views_num": 43095
+      "views": "44,818",
+      "views_num": 44818
     },
     {
-      "title": "2026 장애 공감 공모전",
+      "title": "2026 장애 공감 공모전IDEA",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108549",
       "badge": "SPECIAL",
       "categories": [
@@ -133,15 +133,15 @@
         "기타"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "68,628",
-      "views_num": 68628
+      "views": "69,800",
+      "views_num": 69800
     },
     {
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전IDEA",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108509",
       "badge": "SPECIAL",
       "categories": [
@@ -153,12 +153,12 @@
         "기타"
       ],
       "organization": "제주MBC",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "79,664",
-      "views_num": 79664
+      "views": "81,077",
+      "views_num": 81077
     },
     {
       "title": "2026년 제12회 스토리텔링 공모전 (일상 속의 장애인)",
@@ -170,12 +170,12 @@
         "기타"
       ],
       "organization": "밀알복지재단",
-      "dday": "D-21",
-      "dday_num": 21,
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "1,142",
-      "views_num": 1142
+      "views": "1,755",
+      "views_num": 1755
     },
     {
       "title": "제52회 전국여성 독후감 대회",
@@ -187,12 +187,12 @@
         "기타"
       ],
       "organization": "(사)대한어머니회중앙회",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수중",
       "status_class": "ing",
-      "views": "1,162",
-      "views_num": 1162
+      "views": "1,744",
+      "views_num": 1744
     },
     {
       "title": "제7회 좋은데이 미술대전IDEA",
@@ -205,12 +205,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-35",
-      "dday_num": 35,
+      "dday": "D-34",
+      "dday_num": 34,
       "status": "접수예정",
       "status_class": "future",
-      "views": "88,337",
-      "views_num": 88337
+      "views": "89,787",
+      "views_num": 89787
     },
     {
       "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모",
@@ -222,12 +222,12 @@
         "기타"
       ],
       "organization": "전북대학교",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수예정",
       "status_class": "future",
-      "views": "1,128",
-      "views_num": 1128
+      "views": "1,679",
+      "views_num": 1679
     },
     {
       "title": "제24회 임베디드SW경진대회",
@@ -239,12 +239,12 @@
         "과학/공학"
       ],
       "organization": "산업통상부",
-      "dday": "D-34",
-      "dday_num": 34,
+      "dday": "D-33",
+      "dday_num": 33,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,066",
-      "views_num": 2066
+      "views": "2,594",
+      "views_num": 2594
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -256,27 +256,27 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-91",
-      "dday_num": 91,
+      "dday": "D-90",
+      "dday_num": 90,
       "status": "접수중",
       "status_class": "ing",
-      "views": "1,869",
-      "views_num": 1869
+      "views": "2,351",
+      "views_num": 2351
     },
     {
-      "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화)",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109728",
-      "badge": "신규",
+      "title": "청소년이 만드는 재단 캐릭터 AI 영상 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109738",
+      "badge": "",
       "categories": [
         "영상/UCC/사진"
       ],
-      "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-184",
-      "dday_num": 184,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "57",
-      "views_num": 57
+      "organization": "(재)순천문화재단",
+      "dday": "D-9",
+      "dday_num": 9,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "110",
+      "views_num": 110
     }
   ]
 }
