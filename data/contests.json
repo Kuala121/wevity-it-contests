@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 15:52",
+  "last_updated": "2026-08-03 17:04",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "건축/건설/인테리어"
       ],
       "organization": "LH 한국토지주택공사",
-      "dday": "D-26",
-      "dday_num": 26,
+      "dday": "D-25",
+      "dday_num": 25,
       "status": "접수중",
       "status_class": "ing",
-      "views": "11,233",
-      "views_num": 11233
+      "views": "12,886",
+      "views_num": 12886
     },
     {
       "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
@@ -35,31 +35,12 @@
         "기타"
       ],
       "organization": "한국중부발전(주)",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "18,477",
-      "views_num": 18477
-    },
-    {
-      "title": "2026년 상반기 삼성생명 금융캠퍼스 참가자 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109452",
-      "badge": "SPECIAL",
-      "categories": [
-        "기획/아이디어",
-        "광고/마케팅",
-        "대외활동/서포터즈",
-        "취업/창업",
-        "기타"
-      ],
-      "organization": "삼성생명",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "22,157",
-      "views_num": 22157
+      "views": "20,394",
+      "views_num": 20394
     },
     {
       "title": "제2회 매일유업 대학생 AI 영상 공모전",
@@ -74,12 +55,12 @@
         "기타"
       ],
       "organization": "매일유업",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "47,053",
-      "views_num": 47053
+      "views": "48,408",
+      "views_num": 48408
     },
     {
       "title": "2026 대전 AI 영상 공모전",
@@ -94,12 +75,12 @@
         "기타"
       ],
       "organization": "대전광역시",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "40,681",
-      "views_num": 40681
+      "views": "41,860",
+      "views_num": 41860
     },
     {
       "title": "[KB국민은행] 제 8회  KB A.I Challenge",
@@ -114,12 +95,12 @@
         "과학/공학"
       ],
       "organization": "KB국민은행",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "47,158",
-      "views_num": 47158
+      "dday": "",
+      "dday_num": 9999,
+      "status": "마감",
+      "status_class": "end",
+      "views": "48,609",
+      "views_num": 48609
     },
     {
       "title": "2026 장애 공감 공모전IDEA",
@@ -133,12 +114,12 @@
         "기타"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "70,933",
-      "views_num": 70933
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "72,075",
+      "views_num": 72075
     },
     {
       "title": "제 5회 그린이니셔티브 60초 영화제 공모전IDEA",
@@ -153,12 +134,12 @@
         "기타"
       ],
       "organization": "제주MBC",
-      "dday": "D-12",
-      "dday_num": 12,
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "82,762",
-      "views_num": 82762
+      "views": "83,998",
+      "views_num": 83998
     },
     {
       "title": "2026년 제12회 스토리텔링 공모전 (일상 속의 장애인)",
@@ -170,12 +151,12 @@
         "기타"
       ],
       "organization": "밀알복지재단",
-      "dday": "D-19",
-      "dday_num": 19,
+      "dday": "D-18",
+      "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,363",
-      "views_num": 2363
+      "views": "3,036",
+      "views_num": 3036
     },
     {
       "title": "제52회 전국여성 독후감 대회",
@@ -187,12 +168,12 @@
         "기타"
       ],
       "organization": "(사)대한어머니회중앙회",
-      "dday": "D-29",
-      "dday_num": 29,
+      "dday": "D-28",
+      "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,326",
-      "views_num": 2326
+      "views": "2,886",
+      "views_num": 2886
     },
     {
       "title": "제7회 좋은데이 미술대전IDEA",
@@ -205,12 +186,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-33",
-      "dday_num": 33,
+      "dday": "D-32",
+      "dday_num": 32,
       "status": "접수예정",
       "status_class": "future",
-      "views": "91,348",
-      "views_num": 91348
+      "views": "92,546",
+      "views_num": 92546
     },
     {
       "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모",
@@ -222,12 +203,12 @@
         "기타"
       ],
       "organization": "전북대학교",
-      "dday": "D-29",
-      "dday_num": 29,
+      "dday": "D-28",
+      "dday_num": 28,
       "status": "접수예정",
       "status_class": "future",
-      "views": "2,242",
-      "views_num": 2242
+      "views": "2,749",
+      "views_num": 2749
     },
     {
       "title": "제24회 임베디드SW경진대회",
@@ -239,12 +220,12 @@
         "과학/공학"
       ],
       "organization": "산업통상부",
-      "dday": "D-32",
-      "dday_num": 32,
+      "dday": "D-31",
+      "dday_num": 31,
       "status": "접수중",
       "status_class": "ing",
-      "views": "3,142",
-      "views_num": 3142
+      "views": "3,653",
+      "views_num": 3653
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -256,27 +237,42 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-89",
-      "dday_num": 89,
+      "dday": "D-88",
+      "dday_num": 88,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,858",
-      "views_num": 2858
+      "views": "3,271",
+      "views_num": 3271
     },
     {
-      "title": "청소년이 만드는 재단 캐릭터 AI 영상 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109738",
-      "badge": "",
+      "title": "2026 제9회 핀테크 아이디어 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109794",
+      "badge": "신규",
       "categories": [
-        "영상/UCC/사진"
+        "기획/아이디어"
       ],
-      "organization": "(재)순천문화재단",
-      "dday": "D-8",
-      "dday_num": 8,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "178",
-      "views_num": 178
+      "organization": "금융위원회",
+      "dday": "D-66",
+      "dday_num": 66,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "84",
+      "views_num": 84
+    },
+    {
+      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109792",
+      "badge": "신규",
+      "categories": [
+        "웹/모바일/IT"
+      ],
+      "organization": "대구광역시",
+      "dday": "D-39",
+      "dday_num": 39,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "51",
+      "views_num": 51
     }
   ]
 }
