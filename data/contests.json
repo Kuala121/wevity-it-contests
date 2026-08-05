@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-04 16:46",
+  "last_updated": "2026-08-05 16:26",
   "total": 15,
   "contests": [
+    {
+      "title": "제8회 오티콘챌린지 공모전SPECIAL",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109883",
+      "badge": "신규",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "영상/UCC/사진",
+        "디자인/캐릭터/웹툰",
+        "웹/모바일/IT",
+        "대외활동/서포터즈"
+      ],
+      "organization": "오티콘, 다이어텍",
+      "dday": "D-39",
+      "dday_num": 39,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "158",
+      "views_num": 158
+    },
     {
       "title": "제17회 LH 국토기술대전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109568",
@@ -15,12 +35,12 @@
         "건축/건설/인테리어"
       ],
       "organization": "LH 한국토지주택공사",
-      "dday": "D-24",
-      "dday_num": 24,
+      "dday": "D-23",
+      "dday_num": 23,
       "status": "접수중",
       "status_class": "ing",
-      "views": "13,879",
-      "views_num": 13879
+      "views": "15,278",
+      "views_num": 15278
     },
     {
       "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
@@ -35,12 +55,12 @@
         "기타"
       ],
       "organization": "한국중부발전(주)",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "21,378",
-      "views_num": 21378
+      "views": "22,852",
+      "views_num": 22852
     },
     {
       "title": "제2회 매일유업 대학생 AI 영상 공모전",
@@ -55,12 +75,12 @@
         "기타"
       ],
       "organization": "매일유업",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "50,071",
-      "views_num": 50071
+      "views": "51,985",
+      "views_num": 51985
     },
     {
       "title": "2026 대전 AI 영상 공모전",
@@ -75,12 +95,12 @@
         "기타"
       ],
       "organization": "대전광역시",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "43,501",
-      "views_num": 43501
+      "views": "45,373",
+      "views_num": 45373
     },
     {
       "title": "2026 장애 공감 공모전IDEA",
@@ -94,12 +114,12 @@
         "기타"
       ],
       "organization": "한국장애인재단",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "73,377",
-      "views_num": 73377
+      "views": "74,949",
+      "views_num": 74949
     },
     {
       "title": "제 5회 그린이니셔티브 60초 영화제 공모전IDEA",
@@ -114,12 +134,12 @@
         "기타"
       ],
       "organization": "제주MBC",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "85,092",
-      "views_num": 85092
+      "views": "86,644",
+      "views_num": 86644
     },
     {
       "title": "2026년 제12회 스토리텔링 공모전 (일상 속의 장애인)",
@@ -131,12 +151,12 @@
         "기타"
       ],
       "organization": "밀알복지재단",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "4,058",
-      "views_num": 4058
+      "views": "5,474",
+      "views_num": 5474
     },
     {
       "title": "제52회 전국여성 독후감 대회",
@@ -148,12 +168,12 @@
         "기타"
       ],
       "organization": "(사)대한어머니회중앙회",
-      "dday": "D-27",
-      "dday_num": 27,
+      "dday": "D-26",
+      "dday_num": 26,
       "status": "접수중",
       "status_class": "ing",
-      "views": "3,962",
-      "views_num": 3962
+      "views": "5,420",
+      "views_num": 5420
     },
     {
       "title": "제7회 좋은데이 미술대전IDEA",
@@ -166,12 +186,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-31",
-      "dday_num": 31,
+      "dday": "D-30",
+      "dday_num": 30,
       "status": "접수예정",
       "status_class": "future",
-      "views": "93,800",
-      "views_num": 93800
+      "views": "95,459",
+      "views_num": 95459
     },
     {
       "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모",
@@ -183,12 +203,12 @@
         "기타"
       ],
       "organization": "전북대학교",
-      "dday": "D-27",
-      "dday_num": 27,
+      "dday": "D-26",
+      "dday_num": 26,
       "status": "접수예정",
       "status_class": "future",
-      "views": "3,665",
-      "views_num": 3665
+      "views": "5,053",
+      "views_num": 5053
     },
     {
       "title": "제24회 임베디드SW경진대회",
@@ -200,12 +220,12 @@
         "과학/공학"
       ],
       "organization": "산업통상부",
-      "dday": "D-30",
-      "dday_num": 30,
+      "dday": "D-29",
+      "dday_num": 29,
       "status": "접수중",
       "status_class": "ing",
-      "views": "4,519",
-      "views_num": 4519
+      "views": "5,850",
+      "views_num": 5850
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -217,57 +237,42 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-87",
-      "dday_num": 87,
+      "dday": "D-86",
+      "dday_num": 86,
       "status": "접수중",
       "status_class": "ing",
-      "views": "4,294",
-      "views_num": 4294
+      "views": "5,715",
+      "views_num": 5715
     },
     {
-      "title": "[비애티튜드 매거진] 제2회 비애티튜드 인스타툰 공모",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109835",
+      "title": "[매일경제신문사] 대학생 서포터즈 18기 모집",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109880",
       "badge": "신규",
       "categories": [
-        "디자인/캐릭터/웹툰"
+        "대외활동/서포터즈"
       ],
-      "organization": "비애티튜드 매거진",
-      "dday": "D-27",
-      "dday_num": 27,
+      "organization": "매일경제신문사",
+      "dday": "D-11",
+      "dday_num": 11,
       "status": "접수중",
       "status_class": "ing",
-      "views": "28",
-      "views_num": 28
+      "views": "44",
+      "views_num": 44
     },
     {
-      "title": "2026 국립아시아문화전당재단 미디어아트 유통 작품 공모",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109834",
+      "title": "2026 제10회 대한민국 청년의 날, 제11회 청년정책경진대회",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109876",
       "badge": "신규",
       "categories": [
-        "예체능/미술/음악"
+        "기획/아이디어"
       ],
-      "organization": "국립아시아문화전당재단",
-      "dday": "D-17",
-      "dday_num": 17,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "26",
-      "views_num": 26
-    },
-    {
-      "title": "평화통일 노래 제작 및 챌린지",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109829",
-      "badge": "신규",
-      "categories": [
-        "예체능/미술/음악"
-      ],
-      "organization": "사단법인 한국청년회의소",
-      "dday": "D-17",
-      "dday_num": 17,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "33",
-      "views_num": 33
+      "organization": "(사)청년과미래",
+      "dday": "D-7",
+      "dday_num": 7,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "53",
+      "views_num": 53
     }
   ]
 }
