@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 15:21",
+  "last_updated": "2026-08-19 15:21",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-166",
-      "dday_num": 166,
+      "dday": "D-165",
+      "dday_num": 165,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,365",
-      "views_num": 2365
+      "views": "4,124",
+      "views_num": 4124
     },
     {
       "title": "2026 Little Ambassador 선발 공모전 - 6·25 전쟁 UN 참전용사에게 감사편지쓰기",
@@ -33,12 +33,12 @@
         "기타"
       ],
       "organization": "H2O품앗이운동본부",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9,156",
-      "views_num": 9156
+      "views": "11,020",
+      "views_num": 11020
     },
     {
       "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
@@ -53,12 +53,12 @@
         "기타"
       ],
       "organization": "작필(作筆)",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "14,558",
-      "views_num": 14558
+      "views": "16,622",
+      "views_num": 16622
     },
     {
       "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전IDEA",
@@ -72,12 +72,12 @@
         "기타"
       ],
       "organization": "대통령직속 빛의 위원회",
-      "dday": "D-19",
-      "dday_num": 19,
+      "dday": "D-18",
+      "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "16,221",
-      "views_num": 16221
+      "views": "18,401",
+      "views_num": 18401
     },
     {
       "title": "KB스타즈 여자프로농구단 대학생 홍보대사 16기 모집",
@@ -91,12 +91,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "KB스타즈",
-      "dday": "D-5",
-      "dday_num": 5,
+      "dday": "D-4",
+      "dday_num": 4,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "17,054",
-      "views_num": 17054
+      "views": "19,041",
+      "views_num": 19041
     },
     {
       "title": "제8회 오티콘챌린지 공모전IDEA",
@@ -111,12 +111,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "오티콘, 다이어텍",
-      "dday": "D-26",
-      "dday_num": 26,
+      "dday": "D-25",
+      "dday_num": 25,
       "status": "접수중",
       "status_class": "ing",
-      "views": "26,368",
-      "views_num": 26368
+      "views": "28,576",
+      "views_num": 28576
     },
     {
       "title": "제17회 LH 국토기술대전",
@@ -131,32 +131,12 @@
         "건축/건설/인테리어"
       ],
       "organization": "LH 한국토지주택공사",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "39,048",
-      "views_num": 39048
-    },
-    {
-      "title": "2026 대전 AI 영상 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109142",
-      "badge": "SPECIAL",
-      "categories": [
-        "광고/마케팅",
-        "영상/UCC/사진",
-        "웹/모바일/IT",
-        "예체능/미술/음악",
-        "대외활동/서포터즈",
-        "기타"
-      ],
-      "organization": "대전광역시",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "70,073",
-      "views_num": 70073
+      "views": "41,384",
+      "views_num": 41384
     },
     {
       "title": "2026년 제12회 스토리텔링 공모전 (일상 속의 장애인)",
@@ -168,12 +148,12 @@
         "기타"
       ],
       "organization": "밀알복지재단",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "30,394",
-      "views_num": 30394
+      "views": "32,379",
+      "views_num": 32379
     },
     {
       "title": "제52회 전국여성 독후감 대회",
@@ -185,12 +165,12 @@
         "기타"
       ],
       "organization": "(사)대한어머니회중앙회",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "29,687",
-      "views_num": 29687
+      "views": "31,639",
+      "views_num": 31639
     },
     {
       "title": "제7회 좋은데이 미술대전IDEA",
@@ -203,12 +183,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "119,303",
-      "views_num": 119303
+      "views": "121,478",
+      "views_num": 121478
     },
     {
       "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모",
@@ -220,12 +200,12 @@
         "기타"
       ],
       "organization": "전북대학교",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "28,986",
-      "views_num": 28986
+      "views": "30,874",
+      "views_num": 30874
     },
     {
       "title": "제24회 임베디드SW경진대회",
@@ -237,12 +217,12 @@
         "과학/공학"
       ],
       "organization": "산업통상부",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "27,847",
-      "views_num": 27847
+      "views": "29,680",
+      "views_num": 29680
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -254,27 +234,42 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-73",
-      "dday_num": 73,
+      "dday": "D-72",
+      "dday_num": 72,
       "status": "접수중",
       "status_class": "ing",
-      "views": "29,239",
-      "views_num": 29239
+      "views": "31,149",
+      "views_num": 31149
     },
     {
-      "title": "2026 AI·디지털 네이티브 토론대회",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110218",
+      "title": "제5회 밤섬 마라톤",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110293",
       "badge": "신규",
       "categories": [
         "기타"
       ],
-      "organization": "과학기술정보통신부",
-      "dday": "D-65",
-      "dday_num": 65,
+      "organization": "(사)대한생활체육연맹",
+      "dday": "D-109",
+      "dday_num": 109,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9",
-      "views_num": 9
+      "views": "24",
+      "views_num": 24
+    },
+    {
+      "title": "2026년도 영양의 날 기념 대국민 공모전 (우리 곁의 영양돌봄 – 내가 바라는 영양돌봄 서비스)",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110291",
+      "badge": "신규",
+      "categories": [
+        "기타"
+      ],
+      "organization": "(사)대한영양사협회, (사)한국영양학회, (사)대한지역사회영양학회, (사)한국식품영양과학회, 한국임상영양학회",
+      "dday": "D-9",
+      "dday_num": 9,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "21",
+      "views_num": 21
     }
   ]
 }
