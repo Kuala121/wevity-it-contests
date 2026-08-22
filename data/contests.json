@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 15:22",
+  "last_updated": "2026-08-22 15:10",
   "total": 15,
   "contests": [
     {
@@ -14,12 +14,12 @@
         "기타"
       ],
       "organization": "주관글ego",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "1,874",
-      "views_num": 1874
+      "views": "4,121",
+      "views_num": 4121
     },
     {
       "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)",
@@ -34,12 +34,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-163",
-      "dday_num": 163,
+      "dday": "D-162",
+      "dday_num": 162,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9,648",
-      "views_num": 9648
+      "views": "13,944",
+      "views_num": 13944
     },
     {
       "title": "2026 Little Ambassador 선발 공모전 - 6·25 전쟁 UN 참전용사에게 감사편지쓰기",
@@ -52,12 +52,12 @@
         "기타"
       ],
       "organization": "H2O품앗이운동본부",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "15,887",
-      "views_num": 15887
+      "views": "19,123",
+      "views_num": 19123
     },
     {
       "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
@@ -72,12 +72,12 @@
         "기타"
       ],
       "organization": "작필(作筆)",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "22,230",
-      "views_num": 22230
+      "views": "25,702",
+      "views_num": 25702
     },
     {
       "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전IDEA",
@@ -91,12 +91,12 @@
         "기타"
       ],
       "organization": "대통령직속 빛의 위원회",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "25,550",
-      "views_num": 25550
+      "views": "29,902",
+      "views_num": 29902
     },
     {
       "title": "KB스타즈 여자프로농구단 대학생 홍보대사 16기 모집",
@@ -110,12 +110,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "KB스타즈",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "25,879",
-      "views_num": 25879
+      "views": "30,130",
+      "views_num": 30130
     },
     {
       "title": "제8회 오티콘챌린지 공모전IDEA",
@@ -130,12 +130,27 @@
         "대외활동/서포터즈"
       ],
       "organization": "오티콘, 다이어텍",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수중",
       "status_class": "ing",
-      "views": "35,333",
-      "views_num": 35333
+      "views": "39,733",
+      "views_num": 39733
+    },
+    {
+      "title": "제3회 전국 K스토리 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=109579",
+      "badge": "SPECIAL",
+      "categories": [
+        "문학/글/시나리오"
+      ],
+      "organization": "문화체육관광부, 충청북도, 진천군, 한국콘텐츠진흥원",
+      "dday": "D-40",
+      "dday_num": 40,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "3,630",
+      "views_num": 3630
     },
     {
       "title": "제17회 LH 국토기술대전",
@@ -150,29 +165,12 @@
         "건축/건설/인테리어"
       ],
       "organization": "LH 한국토지주택공사",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "47,661",
-      "views_num": 47661
-    },
-    {
-      "title": "2026년 제12회 스토리텔링 공모전 (일상 속의 장애인)",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108477",
-      "badge": "SPECIAL",
-      "categories": [
-        "문학/글/시나리오",
-        "예체능/미술/음악",
-        "기타"
-      ],
-      "organization": "밀알복지재단",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "37,590",
-      "views_num": 37590
+      "views": "51,855",
+      "views_num": 51855
     },
     {
       "title": "제52회 전국여성 독후감 대회",
@@ -184,12 +182,12 @@
         "기타"
       ],
       "organization": "(사)대한어머니회중앙회",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "36,743",
-      "views_num": 36743
+      "views": "39,540",
+      "views_num": 39540
     },
     {
       "title": "제7회 좋은데이 미술대전IDEA",
@@ -202,12 +200,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "125,904",
-      "views_num": 125904
+      "views": "128,807",
+      "views_num": 128807
     },
     {
       "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모",
@@ -219,12 +217,12 @@
         "기타"
       ],
       "organization": "전북대학교",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "35,934",
-      "views_num": 35934
+      "views": "38,821",
+      "views_num": 38821
     },
     {
       "title": "제24회 임베디드SW경진대회",
@@ -236,12 +234,12 @@
         "과학/공학"
       ],
       "organization": "산업통상부",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "35,979",
-      "views_num": 35979
+      "views": "40,271",
+      "views_num": 40271
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -253,28 +251,28 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-70",
-      "dday_num": 70,
+      "dday": "D-69",
+      "dday_num": 69,
       "status": "접수중",
       "status_class": "ing",
-      "views": "36,094",
-      "views_num": 36094
+      "views": "38,955",
+      "views_num": 38955
     },
     {
       "title": "[2026 국제 컨퍼런스]AI와 기술 시대의 갈등 해결 및 대안적 분쟁 해결 국제 컨퍼런스 학생 연구논문 및 발표자 공모 (Call for Student Papers & Presenters)",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110373",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "논문/리포트",
         "해외"
       ],
       "organization": "한국조지메이슨대학교 분쟁분석 및 해결학과, 아시아 평화와 분쟁 연구센터(PACSC Asia), 그리고 GRO(Global Mediation and Community Resoluti",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "14",
-      "views_num": 14
+      "views": "162",
+      "views_num": 162
     }
   ]
 }
