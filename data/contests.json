@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 23:46",
+  "last_updated": "2026-08-29 18:00",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "예체능/미술/음악"
       ],
       "organization": "한국인공지능•소프트웨어산업협회",
-      "dday": "D-30",
-      "dday_num": 30,
+      "dday": "D-29",
+      "dday_num": 29,
       "status": "접수중",
       "status_class": "ing",
-      "views": "5,436",
-      "views_num": 5436
+      "views": "8,318",
+      "views_num": 8318
     },
     {
       "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 58기 모집",
@@ -34,12 +34,12 @@
         "기타"
       ],
       "organization": "주관글ego",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "24,653",
-      "views_num": 24653
+      "views": "27,619",
+      "views_num": 27619
     },
     {
       "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)",
@@ -54,12 +54,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-156",
-      "dday_num": 156,
+      "dday": "D-155",
+      "dday_num": 155,
       "status": "접수중",
       "status_class": "ing",
-      "views": "48,794",
-      "views_num": 48794
+      "views": "52,651",
+      "views_num": 52651
     },
     {
       "title": "2026 Little Ambassador 선발 공모전 - 6·25 전쟁 UN 참전용사에게 감사편지쓰기",
@@ -72,12 +72,12 @@
         "기타"
       ],
       "organization": "H2O품앗이운동본부",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "40,418",
-      "views_num": 40418
+      "views": "43,132",
+      "views_num": 43132
     },
     {
       "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전IDEA",
@@ -91,12 +91,12 @@
         "기타"
       ],
       "organization": "대통령직속 빛의 위원회",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "63,317",
-      "views_num": 63317
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "66,723",
+      "views_num": 66723
     },
     {
       "title": "제8회 오티콘챌린지 공모전IDEA",
@@ -111,12 +111,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "오티콘, 다이어텍",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "72,483",
-      "views_num": 72483
+      "views": "76,016",
+      "views_num": 76016
     },
     {
       "title": "제3회 전국 K스토리 공모전",
@@ -126,12 +126,12 @@
         "문학/글/시나리오"
       ],
       "organization": "문화체육관광부, 충청북도, 진천군, 한국콘텐츠진흥원",
-      "dday": "D-34",
-      "dday_num": 34,
+      "dday": "D-33",
+      "dday_num": 33,
       "status": "접수예정",
       "status_class": "future",
-      "views": "21,585",
-      "views_num": 21585
+      "views": "24,429",
+      "views_num": 24429
     },
     {
       "title": "제52회 전국여성 독후감 대회",
@@ -143,12 +143,12 @@
         "기타"
       ],
       "organization": "(사)대한어머니회중앙회",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "58,811",
-      "views_num": 58811
+      "views": "61,246",
+      "views_num": 61246
     },
     {
       "title": "제7회 좋은데이 미술대전IDEA",
@@ -161,12 +161,12 @@
         "기타"
       ],
       "organization": "좋은데이나눔재단",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "147,729",
-      "views_num": 147729
+      "views": "149,780",
+      "views_num": 149780
     },
     {
       "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모",
@@ -178,12 +178,12 @@
         "기타"
       ],
       "organization": "전북대학교",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "58,234",
-      "views_num": 58234
+      "views": "60,625",
+      "views_num": 60625
     },
     {
       "title": "제24회 임베디드SW경진대회",
@@ -195,12 +195,12 @@
         "과학/공학"
       ],
       "organization": "산업통상부",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "71,462",
-      "views_num": 71462
+      "views": "74,601",
+      "views_num": 74601
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -212,57 +212,57 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-63",
-      "dday_num": 63,
+      "dday": "D-62",
+      "dday_num": 62,
       "status": "접수중",
       "status_class": "ing",
-      "views": "58,016",
-      "views_num": 58016
+      "views": "60,411",
+      "views_num": 60411
     },
     {
       "title": "2026년 제1회 경기미쌀떡볶이 경연대회",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110572",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "기타"
       ],
       "organization": "경기도",
-      "dday": "D-53",
-      "dday_num": 53,
+      "dday": "D-52",
+      "dday_num": 52,
       "status": "접수예정",
       "status_class": "future",
-      "views": "68",
-      "views_num": 68
+      "views": "118",
+      "views_num": 118
     },
     {
       "title": "2026 광명업사이클아트센터 업사이클 브릭아트 공모전",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110571",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "디자인/캐릭터/웹툰"
       ],
       "organization": "광명업사이클아트센터",
-      "dday": "D-33",
-      "dday_num": 33,
+      "dday": "D-32",
+      "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "91",
-      "views_num": 91
+      "views": "168",
+      "views_num": 168
     },
     {
       "title": "2026 동피랑 페인트 페스타 전국 참여자 모집 공고",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110568",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "봉사활동"
       ],
       "organization": "통영시",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "52",
-      "views_num": 52
+      "views": "109",
+      "views_num": 109
     }
   ]
 }
