@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 17:54",
+  "last_updated": "2026-09-05 17:00",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "기타"
       ],
       "organization": "국민체육진흥공단",
-      "dday": "D-24",
-      "dday_num": 24,
+      "dday": "D-23",
+      "dday_num": 23,
       "status": "접수중",
       "status_class": "ing",
-      "views": "9,294",
-      "views_num": 9294
+      "views": "12,649",
+      "views_num": 12649
     },
     {
       "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지",
@@ -34,12 +34,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-33",
-      "dday_num": 33,
+      "dday": "D-32",
+      "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "10,359",
-      "views_num": 10359
+      "views": "13,610",
+      "views_num": 13610
     },
     {
       "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)",
@@ -53,12 +53,12 @@
         "기타"
       ],
       "organization": "연암대학교",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "6,321",
-      "views_num": 6321
+      "views": "8,414",
+      "views_num": 8414
     },
     {
       "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
@@ -73,12 +73,12 @@
         "기타"
       ],
       "organization": "한국문화정보원",
-      "dday": "D-24",
-      "dday_num": 24,
+      "dday": "D-23",
+      "dday_num": 23,
       "status": "접수중",
       "status_class": "ing",
-      "views": "12,684",
-      "views_num": 12684
+      "views": "16,322",
+      "views_num": 16322
     },
     {
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
@@ -92,12 +92,12 @@
         "취업/창업"
       ],
       "organization": "CJ올리브네트웍스",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "13,811",
-      "views_num": 13811
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "17,369",
+      "views_num": 17369
     },
     {
       "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회IDEA",
@@ -112,12 +112,12 @@
         "기타"
       ],
       "organization": "중소벤처기업부",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "14,972",
-      "views_num": 14972
+      "views": "18,776",
+      "views_num": 18776
     },
     {
       "title": "2026 0924영상제 영상 공모전",
@@ -131,12 +131,12 @@
         "기타"
       ],
       "organization": "하남시청소년수련관",
-      "dday": "D-43",
-      "dday_num": 43,
+      "dday": "D-42",
+      "dday_num": 42,
       "status": "접수중",
       "status_class": "ing",
-      "views": "16,738",
-      "views_num": 16738
+      "views": "20,624",
+      "views_num": 20624
     },
     {
       "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
@@ -151,12 +151,12 @@
         "예체능/미술/음악"
       ],
       "organization": "한국인공지능•소프트웨어산업협회",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수중",
       "status_class": "ing",
-      "views": "29,512",
-      "views_num": 29512
+      "views": "33,693",
+      "views_num": 33693
     },
     {
       "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)",
@@ -171,12 +171,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-149",
-      "dday_num": 149,
+      "dday": "D-148",
+      "dday_num": 148,
       "status": "접수중",
       "status_class": "ing",
-      "views": "75,433",
-      "views_num": 75433
+      "views": "79,738",
+      "views_num": 79738
     },
     {
       "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전IDEA",
@@ -190,12 +190,12 @@
         "기타"
       ],
       "organization": "대통령직속 빛의 위원회",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "88,288",
-      "views_num": 88288
+      "views": "92,343",
+      "views_num": 92343
     },
     {
       "title": "제8회 오티콘챌린지 공모전IDEA",
@@ -210,30 +210,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "오티콘, 다이어텍",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "97,670",
-      "views_num": 97670
-    },
-    {
-      "title": "제7회 좋은데이 미술대전IDEA",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108461",
-      "badge": "SPECIAL",
-      "categories": [
-        "디자인/캐릭터/웹툰",
-        "건축/건설/인테리어",
-        "예체능/미술/음악",
-        "기타"
-      ],
-      "organization": "좋은데이나눔재단",
-      "dday": "",
-      "dday_num": 9999,
-      "status": "마감",
-      "status_class": "end",
-      "views": "162,277",
-      "views_num": 162277
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "101,872",
+      "views_num": 101872
     },
     {
       "title": "2026년 디지털윤리 창작콘텐츠 공모전",
@@ -246,42 +228,57 @@
         "기타"
       ],
       "organization": "방송미디어통신위원회",
-      "dday": "D-28",
-      "dday_num": 28,
+      "dday": "D-27",
+      "dday_num": 27,
       "status": "접수중",
       "status_class": "ing",
-      "views": "11,238",
-      "views_num": 11238
+      "views": "14,056",
+      "views_num": 14056
+    },
+    {
+      "title": "2026 남이섬 AI 영상 광고 숏폼 가을 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110783",
+      "badge": "신규",
+      "categories": [
+        "광고/마케팅"
+      ],
+      "organization": "(주)남이섬",
+      "dday": "D-25",
+      "dday_num": 25,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "121",
+      "views_num": 121
+    },
+    {
+      "title": "[안무가 매칭 프로젝트 제28회 생생 춤 페스티벌] 생생 리포터 모집",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110782",
+      "badge": "",
+      "categories": [
+        "기타"
+      ],
+      "organization": "(사)한국현대무용협회",
+      "dday": "D-6",
+      "dday_num": 6,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "39",
+      "views_num": 39
     },
     {
       "title": "17회 부산평화영화제 자원활동가 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110779",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "봉사활동"
       ],
       "organization": "부산어린이어깨동무",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "74",
-      "views_num": 74
-    },
-    {
-      "title": "서대문장애인종합복지관 개관 28주년 기념 마스코트 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110778",
-      "badge": "신규",
-      "categories": [
-        "디자인/캐릭터/웹툰"
-      ],
-      "organization": "서대문장애인종합복지관",
-      "dday": "D-21",
-      "dday_num": 21,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "75",
-      "views_num": 75
+      "views": "128",
+      "views_num": 128
     }
   ]
 }
