@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 17:59",
+  "last_updated": "2026-09-12 17:31",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "기타"
       ],
       "organization": "국민체육진흥공단",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "45,576",
-      "views_num": 45576
+      "views": "49,128",
+      "views_num": 49128
     },
     {
       "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지",
@@ -34,12 +34,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-26",
-      "dday_num": 26,
+      "dday": "D-25",
+      "dday_num": 25,
       "status": "접수중",
       "status_class": "ing",
-      "views": "46,570",
-      "views_num": 46570
+      "views": "50,089",
+      "views_num": 50089
     },
     {
       "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)",
@@ -53,12 +53,12 @@
         "기타"
       ],
       "organization": "연암대학교",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "33,356",
-      "views_num": 33356
+      "views": "35,652",
+      "views_num": 35652
     },
     {
       "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
@@ -73,12 +73,12 @@
         "기타"
       ],
       "organization": "한국문화정보원",
-      "dday": "D-17",
-      "dday_num": 17,
+      "dday": "D-16",
+      "dday_num": 16,
       "status": "접수중",
       "status_class": "ing",
-      "views": "50,858",
-      "views_num": 50858
+      "views": "54,445",
+      "views_num": 54445
     },
     {
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
@@ -92,12 +92,12 @@
         "취업/창업"
       ],
       "organization": "CJ올리브네트웍스",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "49,291",
-      "views_num": 49291
+      "views": "52,771",
+      "views_num": 52771
     },
     {
       "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회IDEA",
@@ -112,12 +112,12 @@
         "기타"
       ],
       "organization": "중소벤처기업부",
-      "dday": "D-6",
-      "dday_num": 6,
+      "dday": "D-5",
+      "dday_num": 5,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "52,312",
-      "views_num": 52312
+      "views": "55,945",
+      "views_num": 55945
     },
     {
       "title": "2026 0924영상제 영상 공모전IDEA",
@@ -131,12 +131,12 @@
         "기타"
       ],
       "organization": "하남시청소년수련관",
-      "dday": "D-36",
-      "dday_num": 36,
+      "dday": "D-35",
+      "dday_num": 35,
       "status": "접수중",
       "status_class": "ing",
-      "views": "53,292",
-      "views_num": 53292
+      "views": "56,819",
+      "views_num": 56819
     },
     {
       "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
@@ -151,12 +151,12 @@
         "예체능/미술/음악"
       ],
       "organization": "한국인공지능•소프트웨어산업협회",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "66,120",
-      "views_num": 66120
+      "views": "69,579",
+      "views_num": 69579
     },
     {
       "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)",
@@ -171,12 +171,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-142",
-      "dday_num": 142,
+      "dday": "D-141",
+      "dday_num": 141,
       "status": "접수중",
       "status_class": "ing",
-      "views": "112,900",
-      "views_num": 112900
+      "views": "116,224",
+      "views_num": 116224
     },
     {
       "title": "제8회 오티콘챌린지 공모전IDEA",
@@ -191,12 +191,12 @@
         "대외활동/서포터즈"
       ],
       "organization": "오티콘, 다이어텍",
-      "dday": "D-2",
-      "dday_num": 2,
+      "dday": "D-1",
+      "dday_num": 1,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "133,849",
-      "views_num": 133849
+      "views": "137,126",
+      "views_num": 137126
     },
     {
       "title": "[월간좋은생각] 제11회 청년이야기 대상",
@@ -208,12 +208,12 @@
         "기타"
       ],
       "organization": "좋은생각사람들",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "22,639",
-      "views_num": 22639
+      "views": "24,864",
+      "views_num": 24864
     },
     {
       "title": "2026년 디지털윤리 창작콘텐츠 공모전",
@@ -226,57 +226,57 @@
         "기타"
       ],
       "organization": "방송미디어통신위원회",
-      "dday": "D-21",
-      "dday_num": 21,
+      "dday": "D-20",
+      "dday_num": 20,
       "status": "접수중",
       "status_class": "ing",
-      "views": "39,895",
-      "views_num": 39895
+      "views": "42,215",
+      "views_num": 42215
     },
     {
       "title": "특성화고 FESTA 기획단 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110950",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "봉사활동"
       ],
       "organization": "특성화고네트워크",
-      "dday": "D-7",
-      "dday_num": 7,
+      "dday": "D-6",
+      "dday_num": 6,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "32",
-      "views_num": 32
+      "views": "129",
+      "views_num": 129
     },
     {
       "title": "SPONUVA 대학생 서포터즈 스포터즈 1기 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110949",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "대외활동/서포터즈"
       ],
       "organization": "스포뉴바",
-      "dday": "D-19",
-      "dday_num": 19,
+      "dday": "D-18",
+      "dday_num": 18,
       "status": "접수중",
       "status_class": "ing",
-      "views": "43",
-      "views_num": 43
+      "views": "169",
+      "views_num": 169
     },
     {
       "title": "에픽민트 서포터즈 EPIC CREW 1기 모집",
       "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110947",
-      "badge": "신규",
+      "badge": "",
       "categories": [
         "대외활동/서포터즈"
       ],
       "organization": "에픽민트",
-      "dday": "D-9",
-      "dday_num": 9,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "44",
-      "views_num": 44
+      "dday": "D-8",
+      "dday_num": 8,
+      "status": "마감임박",
+      "status_class": "soon",
+      "views": "160",
+      "views_num": 160
     }
   ]
 }
