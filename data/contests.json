@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14 19:41",
+  "last_updated": "2026-09-15 18:34",
   "total": 15,
   "contests": [
     {
@@ -15,12 +15,12 @@
         "기타"
       ],
       "organization": "국민체육진흥공단",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "55,351",
-      "views_num": 55351
+      "views": "58,960",
+      "views_num": 58960
     },
     {
       "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지IDEA",
@@ -34,12 +34,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-23",
-      "dday_num": 23,
+      "dday": "D-22",
+      "dday_num": 22,
       "status": "접수중",
       "status_class": "ing",
-      "views": "56,181",
-      "views_num": 56181
+      "views": "59,804",
+      "views_num": 59804
     },
     {
       "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)",
@@ -53,12 +53,12 @@
         "기타"
       ],
       "organization": "연암대학교",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "39,162",
-      "views_num": 39162
+      "dday": "",
+      "dday_num": 9999,
+      "status": "마감",
+      "status_class": "end",
+      "views": "41,520",
+      "views_num": 41520
     },
     {
       "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
@@ -73,12 +73,12 @@
         "기타"
       ],
       "organization": "한국문화정보원",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "60,918",
-      "views_num": 60918
+      "views": "64,596",
+      "views_num": 64596
     },
     {
       "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회IDEA",
@@ -93,12 +93,12 @@
         "기타"
       ],
       "organization": "중소벤처기업부",
-      "dday": "D-3",
-      "dday_num": 3,
+      "dday": "D-2",
+      "dday_num": 2,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "62,472",
-      "views_num": 62472
+      "views": "66,081",
+      "views_num": 66081
     },
     {
       "title": "2026 0924영상제 영상 공모전IDEA",
@@ -112,12 +112,12 @@
         "기타"
       ],
       "organization": "하남시청소년수련관",
-      "dday": "D-33",
-      "dday_num": 33,
+      "dday": "D-32",
+      "dday_num": 32,
       "status": "접수중",
       "status_class": "ing",
-      "views": "62,880",
-      "views_num": 62880
+      "views": "66,450",
+      "views_num": 66450
     },
     {
       "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
@@ -132,12 +132,12 @@
         "예체능/미술/음악"
       ],
       "organization": "한국인공지능•소프트웨어산업협회",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "75,638",
-      "views_num": 75638
+      "views": "79,329",
+      "views_num": 79329
     },
     {
       "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)",
@@ -152,12 +152,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-139",
-      "dday_num": 139,
+      "dday": "D-138",
+      "dday_num": 138,
       "status": "접수중",
       "status_class": "ing",
-      "views": "122,143",
-      "views_num": 122143
+      "views": "125,545",
+      "views_num": 125545
     },
     {
       "title": "[월간좋은생각] 제11회 청년이야기 대상",
@@ -169,12 +169,12 @@
         "기타"
       ],
       "organization": "좋은생각사람들",
-      "dday": "D-4",
-      "dday_num": 4,
+      "dday": "D-3",
+      "dday_num": 3,
       "status": "마감임박",
       "status_class": "soon",
-      "views": "28,396",
-      "views_num": 28396
+      "views": "31,109",
+      "views_num": 31109
     },
     {
       "title": "2026년 디지털윤리 창작콘텐츠 공모전",
@@ -187,12 +187,12 @@
         "기타"
       ],
       "organization": "방송미디어통신위원회",
-      "dday": "D-18",
-      "dday_num": 18,
+      "dday": "D-17",
+      "dday_num": 17,
       "status": "접수중",
       "status_class": "ing",
-      "views": "45,847",
-      "views_num": 45847
+      "views": "48,248",
+      "views_num": 48248
     },
     {
       "title": "제5회 서울특별시의회 청년 학술논문 공모전",
@@ -204,12 +204,12 @@
         "기타"
       ],
       "organization": "서울특별시의회",
-      "dday": "D-16",
-      "dday_num": 16,
+      "dday": "D-15",
+      "dday_num": 15,
       "status": "접수중",
       "status_class": "ing",
-      "views": "2,939",
-      "views_num": 2939
+      "views": "4,656",
+      "views_num": 4656
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -221,57 +221,57 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-46",
-      "dday_num": 46,
+      "dday": "D-45",
+      "dday_num": 45,
       "status": "접수중",
       "status_class": "ing",
-      "views": "75,680",
-      "views_num": 75680
+      "views": "77,506",
+      "views_num": 77506
     },
     {
-      "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110998",
+      "title": "온라인정책방 정책제안 특별공모",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111033",
       "badge": "신규",
       "categories": [
-        "웹/모바일/IT"
+        "기획/아이디어"
       ],
-      "organization": "행정안전부",
-      "dday": "D-39",
-      "dday_num": 39,
+      "organization": "광진구청",
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "89",
-      "views_num": 89
+      "views": "75",
+      "views_num": 75
     },
     {
-      "title": "청소년 로봇대회 제2회 유스올림피아드",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110995",
+      "title": "2026 아주국제미술대전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111032",
       "badge": "신규",
       "categories": [
-        "과학/공학"
+        "예체능/미술/음악"
       ],
-      "organization": "중원유스센터",
-      "dday": "D-20",
-      "dday_num": 20,
-      "status": "접수중",
-      "status_class": "ing",
-      "views": "76",
-      "views_num": 76
+      "organization": "국제신문방송미디어교류협회",
+      "dday": "D-68",
+      "dday_num": 68,
+      "status": "접수예정",
+      "status_class": "future",
+      "views": "55",
+      "views_num": 55
     },
     {
-      "title": "충청북도사회서비스원 기관 홍보 캐릭터 도민 아이디어 공모전",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=110994",
+      "title": "[교육부x데상트스포츠재단] 2026 무브 챌린지 공모전(초/중/고 학생)",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111027",
       "badge": "신규",
       "categories": [
-        "광고/마케팅"
+        "기타"
       ],
-      "organization": "충청북도사회서비스원",
-      "dday": "D-30",
-      "dday_num": 30,
+      "organization": "재단법인 데상트스포츠재단",
+      "dday": "D-45",
+      "dday_num": 45,
       "status": "접수중",
       "status_class": "ing",
-      "views": "71",
-      "views_num": 71
+      "views": "63",
+      "views_num": 63
     }
   ]
 }
