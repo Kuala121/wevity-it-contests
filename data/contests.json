@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-09-17 18:41",
+  "last_updated": "2026-09-18 17:58",
   "total": 15,
   "contests": [
     {
-      "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중SPECIAL",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111114",
+      "title": "스파크업 : 모두의 에너지 (에너지 창업 경연대회)SPECIAL",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111148",
       "badge": "신규",
+      "categories": [
+        "기획/아이디어",
+        "광고/마케팅",
+        "논문/리포트",
+        "예체능/미술/음악",
+        "대외활동/서포터즈",
+        "취업/창업"
+      ],
+      "organization": "기후에너지환경부",
+      "dday": "D-14",
+      "dday_num": 14,
+      "status": "접수중",
+      "status_class": "ing",
+      "views": "451",
+      "views_num": 451
+    },
+    {
+      "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111114",
+      "badge": "SPECIAL",
       "categories": [
         "광고/마케팅",
         "논문/리포트",
@@ -15,12 +35,12 @@
         "기타"
       ],
       "organization": "작필(作筆)",
-      "dday": "D-14",
-      "dday_num": 14,
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "364",
-      "views_num": 364
+      "views": "2,527",
+      "views_num": 2527
     },
     {
       "title": "2026년 스포츠토토 숏폼 공모전",
@@ -35,12 +55,12 @@
         "기타"
       ],
       "organization": "국민체육진흥공단",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "68,486",
-      "views_num": 68486
+      "views": "72,206",
+      "views_num": 72206
     },
     {
       "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지IDEA",
@@ -54,12 +74,12 @@
         "기타"
       ],
       "organization": "과학기술정보통신부",
-      "dday": "D-20",
-      "dday_num": 20,
+      "dday": "D-19",
+      "dday_num": 19,
       "status": "접수중",
       "status_class": "ing",
-      "views": "69,346",
-      "views_num": 69346
+      "views": "73,043",
+      "views_num": 73043
     },
     {
       "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
@@ -74,12 +94,12 @@
         "기타"
       ],
       "organization": "한국문화정보원",
-      "dday": "D-11",
-      "dday_num": 11,
+      "dday": "D-10",
+      "dday_num": 10,
       "status": "접수중",
       "status_class": "ing",
-      "views": "74,371",
-      "views_num": 74371
+      "views": "78,050",
+      "views_num": 78050
     },
     {
       "title": "2026 0924영상제 영상 공모전IDEA",
@@ -93,12 +113,12 @@
         "기타"
       ],
       "organization": "하남시청소년수련관",
-      "dday": "D-30",
-      "dday_num": 30,
+      "dday": "D-29",
+      "dday_num": 29,
       "status": "접수중",
       "status_class": "ing",
-      "views": "75,657",
-      "views_num": 75657
+      "views": "79,356",
+      "views_num": 79356
     },
     {
       "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
@@ -113,12 +133,12 @@
         "예체능/미술/음악"
       ],
       "organization": "한국인공지능•소프트웨어산업협회",
-      "dday": "D-10",
-      "dday_num": 10,
+      "dday": "D-9",
+      "dday_num": 9,
       "status": "접수중",
       "status_class": "ing",
-      "views": "88,316",
-      "views_num": 88316
+      "views": "91,895",
+      "views_num": 91895
     },
     {
       "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)IDEA",
@@ -133,29 +153,12 @@
         "기타"
       ],
       "organization": "Da-Ho Construction Co., Ltd.",
-      "dday": "D-120",
-      "dday_num": 120,
+      "dday": "D-119",
+      "dday_num": 119,
       "status": "접수중",
       "status_class": "ing",
-      "views": "134,431",
-      "views_num": 134431
-    },
-    {
-      "title": "[월간좋은생각] 제11회 청년이야기 대상",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=108892",
-      "badge": "SPECIAL",
-      "categories": [
-        "문학/글/시나리오",
-        "예체능/미술/음악",
-        "기타"
-      ],
-      "organization": "좋은생각사람들",
-      "dday": "D-1",
-      "dday_num": 1,
-      "status": "마감임박",
-      "status_class": "soon",
-      "views": "39,142",
-      "views_num": 39142
+      "views": "137,993",
+      "views_num": 137993
     },
     {
       "title": "2026년 국민체육진흥공단 공공데이터 활용 경진대회",
@@ -167,12 +170,12 @@
         "기타"
       ],
       "organization": "국민체육진흥공단",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "7,561",
-      "views_num": 7561
+      "views": "10,565",
+      "views_num": 10565
     },
     {
       "title": "2026년 디지털윤리 창작콘텐츠 공모전",
@@ -185,12 +188,12 @@
         "기타"
       ],
       "organization": "방송미디어통신위원회",
-      "dday": "D-15",
-      "dday_num": 15,
+      "dday": "D-14",
+      "dday_num": 14,
       "status": "접수중",
       "status_class": "ing",
-      "views": "54,947",
-      "views_num": 54947
+      "views": "57,528",
+      "views_num": 57528
     },
     {
       "title": "2026년 템플스테이·사찰음식·불교문화 콘텐츠 논문공모전",
@@ -202,12 +205,12 @@
         "기타"
       ],
       "organization": "한국불교문화사업단",
-      "dday": "D-29",
-      "dday_num": 29,
+      "dday": "D-28",
+      "dday_num": 28,
       "status": "접수중",
       "status_class": "ing",
-      "views": "5,345",
-      "views_num": 5345
+      "views": "6,944",
+      "views_num": 6944
     },
     {
       "title": "제5회 서울특별시의회 청년 학술논문 공모전",
@@ -219,12 +222,12 @@
         "기타"
       ],
       "organization": "서울특별시의회",
-      "dday": "D-13",
-      "dday_num": 13,
+      "dday": "D-12",
+      "dday_num": 12,
       "status": "접수중",
       "status_class": "ing",
-      "views": "10,432",
-      "views_num": 10432
+      "views": "12,374",
+      "views_num": 12374
     },
     {
       "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전",
@@ -236,38 +239,38 @@
         "기타"
       ],
       "organization": "충청남도",
-      "dday": "D-43",
-      "dday_num": 43,
+      "dday": "D-42",
+      "dday_num": 42,
       "status": "접수중",
       "status_class": "ing",
-      "views": "82,867",
-      "views_num": 82867
+      "views": "84,895",
+      "views_num": 84895
     },
     {
-      "title": "제 3회 송파 글로벌 AI영화음악 축제",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111104",
+      "title": "[한국인터넷진흥원] 대국민 혁신 정책·제안 공모전",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111146",
       "badge": "신규",
       "categories": [
-        "영상/UCC/사진"
+        "기획/아이디어"
       ],
-      "organization": "AI영화조직위원회",
-      "dday": "D-55",
-      "dday_num": 55,
+      "organization": "한국인터넷진흥원",
+      "dday": "D-13",
+      "dday_num": 13,
       "status": "접수중",
       "status_class": "ing",
-      "views": "60",
-      "views_num": 60
+      "views": "101",
+      "views_num": 101
     },
     {
-      "title": "하이마트 앰버서더 1기 모집",
-      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111101",
+      "title": "2026 커피 퓨처스 챌린지 (Coffee Futures Challenge)",
+      "link": "https://www.wevity.com?c=find&s=1&gbn=view&gp=1&ix=111143",
       "badge": "신규",
       "categories": [
-        "대외활동/서포터즈"
+        "기획/아이디어"
       ],
-      "organization": "롯데하이마트",
-      "dday": "D-31",
-      "dday_num": 31,
+      "organization": "월드커피포럼 조직위원회",
+      "dday": "D-24",
+      "dday_num": 24,
       "status": "접수중",
       "status_class": "ing",
       "views": "84",
